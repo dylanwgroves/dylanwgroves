@@ -10,13 +10,13 @@ title: "Research"
 <div class="venue">Frontiers: Health Communication (2026)</div>
 <div class="paper-links"><a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1707577/full" target="_blank">paper</a></div>
 <details><summary>abstract</summary>
-<p> <i>Introduction<i>. Intimate partner violence remains widespread partly because survivors and witnesses are reluctant to report incidents to authorities. 
+<p> <i>Introduction<\i>. Intimate partner violence remains widespread partly because survivors and witnesses are reluctant to report incidents to authorities. 
 
-Methods. We examine whether narrative media messages can increase willingness to report intimate partner violence (IPV) in rural Tanzania through a survey experiment involving 1,009 respondents across 15 villages. Participants were randomly assigned to hear a 1.5-minute radio drama or to a pure control condition. 
+<i>Methods<\i>. We examine whether narrative media messages can increase willingness to report intimate partner violence (IPV) in rural Tanzania through a survey experiment involving 1,009 respondents across 15 villages. Participants were randomly assigned to hear a 1.5-minute radio drama or to a pure control condition. 
 
-Results. Fewer than 10% of control group respondents recommend that IPV survivors report to police, the authority respondents believe is most likely to punish the abusive husband, but also most likely to cause the husband to abandon the survivor. Treated respondents were 8.9 percentage points more likely to recommend that survivors report to the police (p < 0.001). However, the drama did not improve other pre-specified outcomes—willingness to report to village chairpersons or witnesses reporting IPV—nor did it affect underlying attitudes about IPV acceptability, perceptions of community norms, or beliefs about reporting consequences. 
+<i>Results<\i>. Fewer than 10% of control group respondents recommend that IPV survivors report to police, the authority respondents believe is most likely to punish the abusive husband, but also most likely to cause the husband to abandon the survivor. Treated respondents were 8.9 percentage points more likely to recommend that survivors report to the police (p < 0.001). However, the drama did not improve other pre-specified outcomes—willingness to report to village chairpersons or witnesses reporting IPV—nor did it affect underlying attitudes about IPV acceptability, perceptions of community norms, or beliefs about reporting consequences. 
 
-Discussion. Our findings highlight the distinction between citizens' views of police and local political authorities as targets of IPV reporting. The results also suggest that narrative dramas can influence behavioral intentions central to their narrative, but with limited spillover to related attitudes or behaviors.<p>
+<i>Discussion<\i>. Our findings highlight the distinction between citizens' views of police and local political authorities as targets of IPV reporting. The results also suggest that narrative dramas can influence behavioral intentions central to their narrative, but with limited spillover to related attitudes or behaviors.<p>
 </details>
 </div>
 
