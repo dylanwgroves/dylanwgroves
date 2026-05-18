@@ -228,6 +228,14 @@ title: "Research"
 </details>
 </div>
 
+<div class="paper">
+<div class="title">A radio drama's effects on gender based violence: experimental evidence from Tanzania</div>
+<div class="authors">Beatrice Montano, Salma Emmanuel, Donald P. Green, Dylan W. Groves, Bardia Rahmani</div>
+<details><summary>abstract</summary>
+<p>This placebo-controlled village-level randomized experiment examined whether edutainment about gender-based violence affects awareness, policy priorities, and preferred responses. A random sample of 1,250 villagers completed baseline interviews and attended one of two randomly assigned radio drama screenings, with follow-up interviews one month later. The 90-minute radio drama that focuses on GBV both raises awareness about the risks women face in their daily lives and increases the importance that audiences accord to sexual violence as a community problem. The authors concluded that narrative mass media offers an effective and scalable means for spurring collective action responses to threats to women's safety in public spaces.</p>
+</details>
+</div>
+
 ## Works in Progress
 
 <div class="paper">
@@ -271,13 +279,12 @@ title: "Research"
 <div class="paper">
 <div class="title">Improving rangeland and livestock management in Namibia</div>
 <div class="authors">D. Layne Coppock, Lucas Crowley, Susan L. Durham, Dylan W. Groves, Julian C. Jamison, Dean Karlan, Brien E. Norton, R. Douglas Ramsey</div>
-<div class="paper-links"><a href="https://www.mcc.gov/resources/doc/evalbrief-080420-nam-livestock/" target="_blank">paper</a></div>
+<div class="paper-links"><a href="https://www.mcc.gov/resources/doc/evalbrief-080420-nam-livestock/" target="_blank">paper</a> <a href="https://poverty-action.org/study/impact-community-natural-resource-management-farmers%E2%80%99-livelihoods-and-land-quality-namibia" target="_blank">ipa</a></div>
 </div>
 
 <div class="paper">
-<div class="title">A radio drama's effects on gender based violence: experimental evidence from Tanzania</div>
-<div class="authors">Beatrice Montano, Salma Emmanuel, Donald P. Green, Dylan W. Groves, Bardia Rahmani</div>
-<details><summary>abstract</summary>
-<p>This placebo-controlled village-level randomized experiment examined whether edutainment about gender-based violence affects awareness, policy priorities, and preferred responses. A random sample of 1,250 villagers completed baseline interviews and attended one of two randomly assigned radio drama screenings, with follow-up interviews one month later. The 90-minute radio drama that focuses on GBV both raises awareness about the risks women face in their daily lives and increases the importance that audiences accord to sexual violence as a community problem. The authors concluded that narrative mass media offers an effective and scalable means for spurring collective action responses to threats to women's safety in public spaces.</p>
-</details>
+<div class="title">Information and motivation: why governments respond to watchdog journalism</div>
+<div class="authors">Dylan W. Groves</div>
+<div class="venue">Governance and Local Development Institute Working Paper Series, No. 73 (2024)</div>
+<div class="paper-links"><a href="https://gld.gu.se/en/publications/gld-working-papers/wp73/" target="_blank">paper</a> <a href="https://www.povertyactionlab.org/initiative-project/spotlight-field-experiment-media-coverage-and-local-governance" target="_blank">j-pal</a></div>
 </div>
