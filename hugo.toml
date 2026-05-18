@@ -1,0 +1,30 @@
+baseURL = 'https://dylanwgroves.com/'
+locale = 'en-us'
+title = 'Dylan W. Groves'
+theme = 'minimal'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  affiliation = 'Assistant Professor of Government and Law, Lafayette College'
+
+[menu]
+  [[menu.main]]
+    name = 'about'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    name = 'research'
+    url = '/research/'
+    weight = 2
+  [[menu.main]]
+    name = 'teaching'
+    url = '/teaching/'
+    weight = 3
+  [[menu.main]]
+    name = 'cv'
+    url = '/cv/'
+    weight = 4
