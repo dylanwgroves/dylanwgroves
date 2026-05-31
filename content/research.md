@@ -8,7 +8,7 @@ title: "Research"
 <div class="title">The effect of radio dramas on willingness to report intimate partner violence: evidence from a survey experiment in Tanzania</div>
 <div class="authors">Kate SantaMaria, Noela Ringo, Kasim Abdallah, Dylan W. Groves, Brenda Nyambo</div>
 <div class="venue">Frontiers: Health Communication (2026)</div>
-<div class="paper-links"><a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1707577/full" target="_blank">paper</a></div>
+<div class="paper-links"><a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1707577/full" target="_blank">paper</a> <a href="https://osf.io/ft54b/overview?view_only=3883d1d35ea340f7af3aa264ba7664d5" target="_blank">replication materials</a></div>
 <details><summary>abstract</summary>
 <p> <i>Introduction</i>. Intimate partner violence remains widespread partly because survivors and witnesses are reluctant to report incidents to authorities. 
 
