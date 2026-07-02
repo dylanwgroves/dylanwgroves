@@ -154,7 +154,7 @@ title: "Research"
 <div class="paper">
 <div class="title">The long-term effects of a radio drama on HIV attitudes and policy priorities</div>
 <div class="authors">Dylan W. Groves, Alphincina Kigaigai, Beatrice Montano, Savannah Nivin, Bardia Rahmani, Donald P. Green</div>
-<div class="venue">Under Review</div>
+<div class="venue">Revise and Resubmit, Social Science and Medicine</div>
 <details><summary>abstract</summary>
 <p>A growing body of evidence demonstrates that entertainment-education can improve public health knowledge, attitudes, and behaviors over the short term. However, relatively few studies assess whether these effects persist over extended periods or diffuse to viewers' family and friends. The present study employs a cluster-randomized field experiment in rural Tanzania to assess long-term and spillover effects of a Swahili radio drama addressing HIV disclosure and treatment. We randomly assigned 30 villages to treatment or control conditions, pairing villages within wards and randomizing one village per pair to the HIV drama Wahapahapa and the other to a placebo drama. Within each village, 40 respondents completed baseline interviews and received an invitation to attend the assigned screening. We surveyed respondents at two weeks and 18 months post-screening, also surveying their partners, friends, and children at endline. Eighteen months after screening, we observe persistent effects on primary respondents' HIV knowledge, disclosure willingness, and policy prioritization. Disclosure attitudes transmitted to partners and children but not friends, suggesting spillover occurs through household relationships rather than broader networks.</p>
 </details>
