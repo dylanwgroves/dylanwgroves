@@ -145,7 +145,7 @@ title: "Research"
 <div class="paper">
 <div class="title">The persuasive power of Africa's High Courts: evidence from Tanzania</div>
 <div class="authors">Salma Emmanuel, Dylan W. Groves, Beatrice Montano, Constantine Manda, Donald P. Green, Bardia Rahmani</div>
-<div class="venue">Revise and Resubmit</div>
+<div class="venue">Revise and Resubmit, World Development</div>
 <details><summary>abstract</summary>
 <p>Do constitutional court rulings shape social attitudes and perceived social norms? Rigorous evidence from outside of industrialized democracies is scarce. This paper evaluates the influence of a recent ruling by Tanzania's supreme court which held that laws permitting marriage for girls under the age of 18 are unconstitutional. We randomly assigned 1,950 respondents in rural Tanzania to hear a radio report about the ruling or to a control condition. Respondents who heard the report were 8 percentage points more likely to reject all forms of early marriage and 5.4 percentage points more likely to say they would report early marriage to authorities. However, hearing the report did not influence perceptions of community norms or willingness to speak out against early marriage, and the persuasive effect of the report was attenuated when presented alongside a countervailing signal from Tanzania's Attorney General.</p>
 </details>
