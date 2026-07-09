@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Links of Interest"
 ---
 
-Links of interest and occasional notes.
+A running list of things worth reading.
