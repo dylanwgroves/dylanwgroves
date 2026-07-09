@@ -1,5 +1,5 @@
 ---
-title: "The Drunken Silenus"
+title: "Book Recommendation: Drunken Silenus"
 date: 2026-07-09T10:46:10-04:00
 draft: false
 link: "https://slantbooks.org/books/the-drunken-silenus/"
