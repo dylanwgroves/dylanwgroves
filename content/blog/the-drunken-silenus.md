@@ -7,4 +7,4 @@ source: "Slant Books"
 tags: ["visual culture"]
 ---
 
-Book recommendation: the first of Morgan Meis' Three Paintings Trilogy. Based on [this recommendation](https://www.nybooks.com/articles/2026/04/23/the-painters-shadow-world-morgan-meis/).
+The first of Morgan Meis' Three Paintings Trilogy. Based on [this recommendation](https://www.nybooks.com/articles/2026/04/23/the-painters-shadow-world-morgan-meis/).
