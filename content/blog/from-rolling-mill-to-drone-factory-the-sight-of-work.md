@@ -1,5 +1,5 @@
 ---
-title: "From Rolling Mill to Drone Factory: The Sight of Work"
+title: "Article: From Rolling Mill to Drone Factory: The Sight of Work"
 date: 2026-07-09T10:33:27-04:00
 draft: false
 link: "https://nonsite.org/from-rolling-mill-to-drone-factory-the-sight-of-work/"
