@@ -6,4 +6,4 @@ title: "Contact"
 
 <a href="https://calendar.app.google/hr7tu6WPYMDvBd3m9" target="_blank">schedule a meeting</a>
 
-<a href="/blog/">links of interest</a>
+<a href="/blog/">running list of links</a>
