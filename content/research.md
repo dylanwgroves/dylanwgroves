@@ -2,6 +2,86 @@
 title: "Research"
 ---
 
+## Working Papers
+
+<div class="paper">
+<div class="title">The persuasive power of Africa's High Courts: evidence from Tanzania</div>
+<div class="authors">Salma Emmanuel, Dylan W. Groves, Beatrice Montano, Constantine Manda, Donald P. Green, Bardia Rahmani</div>
+<div class="venue">Revise and Resubmit, World Development</div>
+<details><summary>abstract</summary>
+<p>Do constitutional court rulings shape social attitudes and perceived social norms? Rigorous evidence from outside of industrialized democracies is scarce. This paper evaluates the influence of a recent ruling by Tanzania's supreme court which held that laws permitting marriage for girls under the age of 18 are unconstitutional. We randomly assigned 1,950 respondents in rural Tanzania to hear a radio report about the ruling or to a control condition. Respondents who heard the report were 8 percentage points more likely to reject all forms of early marriage and 5.4 percentage points more likely to say they would report early marriage to authorities. However, hearing the report did not influence perceptions of community norms or willingness to speak out against early marriage, and the persuasive effect of the report was attenuated when presented alongside a countervailing signal from Tanzania's Attorney General.</p>
+</details>
+</div>
+
+<div class="paper">
+<div class="title">The long-term effects of a radio drama on HIV attitudes and policy priorities</div>
+<div class="authors">Dylan W. Groves, Alphincina Kigaigai, Beatrice Montano, Savannah Nivin, Bardia Rahmani, Donald P. Green</div>
+<div class="venue">Revise and Resubmit, Social Science and Medicine</div>
+<details><summary>abstract</summary>
+<p>A growing body of evidence demonstrates that entertainment-education can improve public health knowledge, attitudes, and behaviors over the short term. However, relatively few studies assess whether these effects persist over extended periods or diffuse to viewers' family and friends. The present study employs a cluster-randomized field experiment in rural Tanzania to assess long-term and spillover effects of a Swahili radio drama addressing HIV disclosure and treatment. We randomly assigned 30 villages to treatment or control conditions, pairing villages within wards and randomizing one village per pair to the HIV drama Wahapahapa and the other to a placebo drama. Within each village, 40 respondents completed baseline interviews and received an invitation to attend the assigned screening. We surveyed respondents at two weeks and 18 months post-screening, also surveying their partners, friends, and children at endline. Eighteen months after screening, we observe persistent effects on primary respondents' HIV knowledge, disclosure willingness, and policy prioritization. Disclosure attitudes transmitted to partners and children but not friends, suggesting spillover occurs through household relationships rather than broader networks.</p>
+</details>
+</div>
+
+<div class="paper">
+<div class="title">Climate and cooperation: evidence from Namibia</div>
+<div class="authors">Garrett Adler, Dylan W. Groves</div>
+<div class="venue">Under Review</div>
+<details><summary>abstract</summary>
+<p>Political outcomes ranging from mass migration to leadership change to violent conflict have been linked to adverse climatic conditions associated with climate change. While large scale cross-country panel datasets can provide substantiation of such relationships, relatively little rigorous evidence is available to identify micro-level behavioral and collective responses that could help to explain these links. In this paper we explore the micro-level impact of climate stress by pairing an exogenous climatic shock -- a severe and spatially varying drought -- with "lab-in-the-field" behavioral games and surveyed measures of collective action from ~1000 livestock managers in 123 grazing areas across northern Namibia. First, we leverage repeated measurements of the same livestock managers over time to test whether play in public goods games differs between more and less severe drought conditions. Second, in the same villages, we explore how observed measures of collective behavior, including participation in water resource management and community grazing institutions, vary with the experience of drought. Results provide evidence that, in this context of acute vulnerability to climate change, severe climatic shocks tend not to affect or to increase individuals' propensity to act pro-socially and collectively. Where present, such counter-veiling collective responses to the devastation of drought may enhance resilience in the face of climate change and limit the rise of disruptive future political outcomes, including mass migration and conflict.</p>
+</details>
+</div>
+
+<div class="paper">
+<div class="title">Journalism and blame attribution in hegemonic party regimes: evidence from Tanzania</div>
+<div class="authors">Benjamin Risley, Dylan W. Groves, Zakayo Zakaria</div>
+<div class="venue">Under Review</div>
+<details><summary>abstract</summary>
+<p>Does blame attribution shape political accountability in dominant-party systems? When journalists report on governance failures, they must decide whom, if anyone, to hold responsible. We evaluate the consequences of their choices through a pre-registered lab-in-the-field experiment with 1,009 respondents across 15 rural Tanzanian villages. Local journalists investigated a water service delivery failure and produced two reports that were identical except that one report blamed the Member of Parliament while the other blamed the rural water bureaucracy. Both negative news stories increased citizens' prioritization of water, lowered government evaluations and increased intentions to sanction relative to the pure control group. Relative to the report blaming the bureaucracy, the report blaming the MP made respondents 27 percentage points more likely to hold the MP primarily responsible for water services and 8 percentage points less likely to say they would vote for the MP in the next election. Journalists' choices about blame attribution shape who citizens hold accountable, even in contexts of ruling party dominance.</p>
+</details>
+</div>
+
+<div class="paper">
+<div class="title">Information or motivation? How watchdog journalism can promote government responsiveness in Tanzania</div>
+<div class="authors">Dylan W. Groves</div>
+<div class="paper-links"><a href="https://papers.ssrn.com/sol3/papers.cfm" target="_blank">paper</a> <a href="https://www.dropbox.com/s/d5x6kjomivn8plt" target="_blank">pre-analysis plan</a></div>
+<details><summary>abstract</summary>
+<p>I evaluate two mechanisms by which journalism influences village government responsiveness: informing government officials about the preferences of their constituents and motivating officials with the threat of public exposure. I first draw on surveys of 4,200 citizens and 340 leaders across 109 Tanzanian villages to document whether leaders understand, share, and respond to the policy preferences of their constituents. I then examine the effect of two overlapping treatments, each designed to capture a mechanism of journalism's influence. In the "information" experiment, I randomly assigned leaders to receive information about the priorities of their constituents. In the "motivation" experiment, I randomly assigned leaders to be contacted by journalists planning reports on a specific development issue in the leader's village. To evaluate outcomes, I developed a behavioral measure of the willingness of village leaders to lobby district council officials for development projects on behalf of their constituents. I find mixed evidence for the role of information, strong evidence for the role of motivation, and no evidence for complimentary between the two mechanisms. The effect is concentrated among elected officials rather than bureaucrats, but not in electorally competitive communities.</p>
+</details>
+</div>
+
+<div class="paper">
+<div class="title">A radio drama's effects on environmental protection: experimental evidence from Tanzania</div>
+<div class="authors">Bardia Rahmani, Dylan W. Groves, Beatrice Montano, Donald P. Green</div>
+<details><summary>abstract</summary>
+<p>We report the results of an experiment conducted in rural Tanzania in which 1,360 respondents from 34 villages were randomly assigned to attend a screening of one of two radio dramas. The treatment drama depicts a corrupt bargain between a business developer and a public official to sell off the natural resources of a fishing village; the hero of the story rallies villagers to reject the deal in favor of environmental preservation. A placebo drama focused on an unrelated topic. Outcomes were assessed through a survey conducted four weeks later with 98.5% of original participants. Participants who were randomly exposed to the treatment drama became more knowledgeable about climate change, more likely to cite environmental protection as a political priority, and substantially more supportive of pro-environmental policies and candidates. No effects were found on other outcomes, such as respondents' proclivity to engage in or punish illegal logging.</p>
+</details>
+</div>
+
+<div class="paper">
+<div class="title">Governments respond to watchdog journalism: evidence from a field experiment in Tanzania</div>
+<div class="authors">Dylan W. Groves</div>
+<div class="paper-links"><a href="https://www.dropbox.com/s/xivxgbphswjjrjc" target="_blank">paper</a> <a href="https://app.box.com/s/cslc78tosc3dzlyjm8p7w4bawer78cvg" target="_blank">pre-analysis plan</a></div>
+<details><summary>abstract</summary>
+<p>I evaluate the influence of investigative journalism on government responsiveness using a national scale randomized controlled trial in Tanzania. I collaborated with 15 regional radio stations to identify 206 communities experiencing service delivery problems like flooded roads, broken water points, and missing medical supplies. I then randomly assigned half the communities to the treatment group and half the communities to a pure control condition. In treatment communities, journalists investigated the service delivery problem, broadcast their findings on regional radio, and conducted follow up reports several months later. Seven months after the reports were broadcast, independent auditors evaluated the service delivery problem in all 206 communities. I find that treatment communities received higher audit scores on average (coefficient = 0.25 standard deviations, randomization inference p-value = 0.033), amounting to one road or water point repair in every four treated communities. The investigations generated observable responses by un-elected government ministries but not citizens, local government officials, or members of parliament.</p>
+</details>
+</div>
+
+<div class="paper">
+<div class="title">Religious elite messaging and women's political participation</div>
+<div class="authors">Bardia Rahmani, Dylan W. Groves, Beatrice Montano, Francis Ngatigwa, Donald Green</div>
+<details><summary>abstract</summary>
+<p>Can religious leaders use their standing to promote women's political participation (WPP) in the developing world? We present the results of a survey experiment conducted in northeastern Tanzania that estimates the effect of a pro-WPP audio message from a progressive religious elite on behavioral intentions, attitudes, and norms relating to female office-seeking. Across two studies, we find that the progressive religious elite's message makes villagers more likely on average to say they would encourage their daughter or niece to run for political office. These effects on behavioral intentions persisted a month later. Moreover, we find suggestive evidence that the children of respondents who received the progressive elite's message became more interested in running for political office. By contrast, we find muted or inconsistent effects of the progressive message on attitudes and norms, and of conservative messages on all three outcomes. The results suggest that interventions that leverage local religious elites can effectively reduce familial gatekeeping of women's political participation in socially conservative communities.</p>
+</details>
+</div>
+
+<div class="paper">
+<div class="title">The effect of climate change news on public opinion about the environment: evidence from a lab-in-the-field experiment in Tanzania</div>
+<div class="authors">Alexander Brown, Salma Emmanuel, Beatrice Montano, Bardia Rahmani, Donald P. Green, Dylan W. Groves</div>
+<details><summary>abstract</summary>
+<p>Concern about environmental degradation is widespread in developing countries, but awareness about climate change and support for climate-friendly policies is limited. How do news stories designed to raise awareness about the link between climate change and environmental degradation shape attitudes towards environmental protection? We conducted an experiment using two short radio news reports from a local radio station in Tanzania describing climate change's causes and consequences, and the consequent importance of environmental protection. One clip emphasized general responsibility for climate change while the other attributed climate change specifically to China and the United States. Respondents were randomly assigned to hear one of the two clips or to a pure control condition. Both treatments increased understanding of climate change's human causes and negative consequences, as well as support for local environmental protection behaviors and policies. However, the clips did not affect attitudes, perceived norms, or intentions to engage in climate change mitigation. The clip emphasizing international causes moderately increased awareness of those causes but did not influence environmental attitudes or behaviors. Climate news can substantially shift support for environmental protection in the Global South even when the stories blame external actors.</p>
+</details>
+</div>
+
 ## Published and Forthcoming
 
 <div class="paper">
@@ -140,85 +220,7 @@ title: "Research"
 </details>
 </div>
 
-## Working Papers
-
-<div class="paper">
-<div class="title">The persuasive power of Africa's High Courts: evidence from Tanzania</div>
-<div class="authors">Salma Emmanuel, Dylan W. Groves, Beatrice Montano, Constantine Manda, Donald P. Green, Bardia Rahmani</div>
-<div class="venue">Revise and Resubmit, World Development</div>
-<details><summary>abstract</summary>
-<p>Do constitutional court rulings shape social attitudes and perceived social norms? Rigorous evidence from outside of industrialized democracies is scarce. This paper evaluates the influence of a recent ruling by Tanzania's supreme court which held that laws permitting marriage for girls under the age of 18 are unconstitutional. We randomly assigned 1,950 respondents in rural Tanzania to hear a radio report about the ruling or to a control condition. Respondents who heard the report were 8 percentage points more likely to reject all forms of early marriage and 5.4 percentage points more likely to say they would report early marriage to authorities. However, hearing the report did not influence perceptions of community norms or willingness to speak out against early marriage, and the persuasive effect of the report was attenuated when presented alongside a countervailing signal from Tanzania's Attorney General.</p>
-</details>
-</div>
-
-<div class="paper">
-<div class="title">The long-term effects of a radio drama on HIV attitudes and policy priorities</div>
-<div class="authors">Dylan W. Groves, Alphincina Kigaigai, Beatrice Montano, Savannah Nivin, Bardia Rahmani, Donald P. Green</div>
-<div class="venue">Revise and Resubmit, Social Science and Medicine</div>
-<details><summary>abstract</summary>
-<p>A growing body of evidence demonstrates that entertainment-education can improve public health knowledge, attitudes, and behaviors over the short term. However, relatively few studies assess whether these effects persist over extended periods or diffuse to viewers' family and friends. The present study employs a cluster-randomized field experiment in rural Tanzania to assess long-term and spillover effects of a Swahili radio drama addressing HIV disclosure and treatment. We randomly assigned 30 villages to treatment or control conditions, pairing villages within wards and randomizing one village per pair to the HIV drama Wahapahapa and the other to a placebo drama. Within each village, 40 respondents completed baseline interviews and received an invitation to attend the assigned screening. We surveyed respondents at two weeks and 18 months post-screening, also surveying their partners, friends, and children at endline. Eighteen months after screening, we observe persistent effects on primary respondents' HIV knowledge, disclosure willingness, and policy prioritization. Disclosure attitudes transmitted to partners and children but not friends, suggesting spillover occurs through household relationships rather than broader networks.</p>
-</details>
-</div>
-
-<div class="paper">
-<div class="title">Climate and cooperation: evidence from Namibia</div>
-<div class="authors">Garrett Adler, Dylan W. Groves</div>
-<div class="venue">Under Review</div>
-<details><summary>abstract</summary>
-<p>Political outcomes ranging from mass migration to leadership change to violent conflict have been linked to adverse climatic conditions associated with climate change. While large scale cross-country panel datasets can provide substantiation of such relationships, relatively little rigorous evidence is available to identify micro-level behavioral and collective responses that could help to explain these links. In this paper we explore the micro-level impact of climate stress by pairing an exogenous climatic shock -- a severe and spatially varying drought -- with "lab-in-the-field" behavioral games and surveyed measures of collective action from ~1000 livestock managers in 123 grazing areas across northern Namibia. First, we leverage repeated measurements of the same livestock managers over time to test whether play in public goods games differs between more and less severe drought conditions. Second, in the same villages, we explore how observed measures of collective behavior, including participation in water resource management and community grazing institutions, vary with the experience of drought. Results provide evidence that, in this context of acute vulnerability to climate change, severe climatic shocks tend not to affect or to increase individuals' propensity to act pro-socially and collectively. Where present, such counter-veiling collective responses to the devastation of drought may enhance resilience in the face of climate change and limit the rise of disruptive future political outcomes, including mass migration and conflict.</p>
-</details>
-</div>
-
-<div class="paper">
-<div class="title">Journalism and blame attribution in hegemonic party regimes: evidence from Tanzania</div>
-<div class="authors">Benjamin Risley, Dylan W. Groves, Zakayo Zakaria</div>
-<div class="venue">Under Review</div>
-<details><summary>abstract</summary>
-<p>Does blame attribution shape political accountability in dominant-party systems? When journalists report on governance failures, they must decide whom, if anyone, to hold responsible. We evaluate the consequences of their choices through a pre-registered lab-in-the-field experiment with 1,009 respondents across 15 rural Tanzanian villages. Local journalists investigated a water service delivery failure and produced two reports that were identical except that one report blamed the Member of Parliament while the other blamed the rural water bureaucracy. Both negative news stories increased citizens' prioritization of water, lowered government evaluations and increased intentions to sanction relative to the pure control group. Relative to the report blaming the bureaucracy, the report blaming the MP made respondents 27 percentage points more likely to hold the MP primarily responsible for water services and 8 percentage points less likely to say they would vote for the MP in the next election. Journalists' choices about blame attribution shape who citizens hold accountable, even in contexts of ruling party dominance.</p>
-</details>
-</div>
-
-<div class="paper">
-<div class="title">Information or motivation? How watchdog journalism can promote government responsiveness in Tanzania</div>
-<div class="authors">Dylan W. Groves</div>
-<div class="paper-links"><a href="https://papers.ssrn.com/sol3/papers.cfm" target="_blank">paper</a> <a href="https://www.dropbox.com/s/d5x6kjomivn8plt" target="_blank">pre-analysis plan</a></div>
-<details><summary>abstract</summary>
-<p>I evaluate two mechanisms by which journalism influences village government responsiveness: informing government officials about the preferences of their constituents and motivating officials with the threat of public exposure. I first draw on surveys of 4,200 citizens and 340 leaders across 109 Tanzanian villages to document whether leaders understand, share, and respond to the policy preferences of their constituents. I then examine the effect of two overlapping treatments, each designed to capture a mechanism of journalism's influence. In the "information" experiment, I randomly assigned leaders to receive information about the priorities of their constituents. In the "motivation" experiment, I randomly assigned leaders to be contacted by journalists planning reports on a specific development issue in the leader's village. To evaluate outcomes, I developed a behavioral measure of the willingness of village leaders to lobby district council officials for development projects on behalf of their constituents. I find mixed evidence for the role of information, strong evidence for the role of motivation, and no evidence for complimentary between the two mechanisms. The effect is concentrated among elected officials rather than bureaucrats, but not in electorally competitive communities.</p>
-</details>
-</div>
-
-<div class="paper">
-<div class="title">A radio drama's effects on environmental protection: experimental evidence from Tanzania</div>
-<div class="authors">Bardia Rahmani, Dylan W. Groves, Beatrice Montano, Donald P. Green</div>
-<details><summary>abstract</summary>
-<p>We report the results of an experiment conducted in rural Tanzania in which 1,360 respondents from 34 villages were randomly assigned to attend a screening of one of two radio dramas. The treatment drama depicts a corrupt bargain between a business developer and a public official to sell off the natural resources of a fishing village; the hero of the story rallies villagers to reject the deal in favor of environmental preservation. A placebo drama focused on an unrelated topic. Outcomes were assessed through a survey conducted four weeks later with 98.5% of original participants. Participants who were randomly exposed to the treatment drama became more knowledgeable about climate change, more likely to cite environmental protection as a political priority, and substantially more supportive of pro-environmental policies and candidates. No effects were found on other outcomes, such as respondents' proclivity to engage in or punish illegal logging.</p>
-</details>
-</div>
-
-<div class="paper">
-<div class="title">Governments respond to watchdog journalism: evidence from a field experiment in Tanzania</div>
-<div class="authors">Dylan W. Groves</div>
-<div class="paper-links"><a href="https://www.dropbox.com/s/xivxgbphswjjrjc" target="_blank">paper</a> <a href="https://app.box.com/s/cslc78tosc3dzlyjm8p7w4bawer78cvg" target="_blank">pre-analysis plan</a></div>
-<details><summary>abstract</summary>
-<p>I evaluate the influence of investigative journalism on government responsiveness using a national scale randomized controlled trial in Tanzania. I collaborated with 15 regional radio stations to identify 206 communities experiencing service delivery problems like flooded roads, broken water points, and missing medical supplies. I then randomly assigned half the communities to the treatment group and half the communities to a pure control condition. In treatment communities, journalists investigated the service delivery problem, broadcast their findings on regional radio, and conducted follow up reports several months later. Seven months after the reports were broadcast, independent auditors evaluated the service delivery problem in all 206 communities. I find that treatment communities received higher audit scores on average (coefficient = 0.25 standard deviations, randomization inference p-value = 0.033), amounting to one road or water point repair in every four treated communities. The investigations generated observable responses by un-elected government ministries but not citizens, local government officials, or members of parliament.</p>
-</details>
-</div>
-
-<div class="paper">
-<div class="title">Religious elite messaging and women's political participation</div>
-<div class="authors">Bardia Rahmani, Dylan W. Groves, Beatrice Montano, Francis Ngatigwa, Donald Green</div>
-<details><summary>abstract</summary>
-<p>Can religious leaders use their standing to promote women's political participation (WPP) in the developing world? We present the results of a survey experiment conducted in northeastern Tanzania that estimates the effect of a pro-WPP audio message from a progressive religious elite on behavioral intentions, attitudes, and norms relating to female office-seeking. Across two studies, we find that the progressive religious elite's message makes villagers more likely on average to say they would encourage their daughter or niece to run for political office. These effects on behavioral intentions persisted a month later. Moreover, we find suggestive evidence that the children of respondents who received the progressive elite's message became more interested in running for political office. By contrast, we find muted or inconsistent effects of the progressive message on attitudes and norms, and of conservative messages on all three outcomes. The results suggest that interventions that leverage local religious elites can effectively reduce familial gatekeeping of women's political participation in socially conservative communities.</p>
-</details>
-</div>
-
-<div class="paper">
-<div class="title">The effect of climate change news on public opinion about the environment: evidence from a lab-in-the-field experiment in Tanzania</div>
-<div class="authors">Alexander Brown, Salma Emmanuel, Beatrice Montano, Bardia Rahmani, Donald P. Green, Dylan W. Groves</div>
-<details><summary>abstract</summary>
-<p>Concern about environmental degradation is widespread in developing countries, but awareness about climate change and support for climate-friendly policies is limited. How do news stories designed to raise awareness about the link between climate change and environmental degradation shape attitudes towards environmental protection? We conducted an experiment using two short radio news reports from a local radio station in Tanzania describing climate change's causes and consequences, and the consequent importance of environmental protection. One clip emphasized general responsibility for climate change while the other attributed climate change specifically to China and the United States. Respondents were randomly assigned to hear one of the two clips or to a pure control condition. Both treatments increased understanding of climate change's human causes and negative consequences, as well as support for local environmental protection behaviors and policies. However, the clips did not affect attitudes, perceived norms, or intentions to engage in climate change mitigation. The clip emphasizing international causes moderately increased awareness of those causes but did not influence environmental attitudes or behaviors. Climate news can substantially shift support for environmental protection in the Global South even when the stories blame external actors.</p>
-</details>
-</div>
+## Works in Progress
 
 <div class="paper">
 <div class="title">Narrative entertainment shapes policy priorities: evidence from four field experiments in Tanzania</div>
@@ -235,8 +237,6 @@ title: "Research"
 <p>This placebo-controlled village-level randomized experiment examined whether edutainment about gender-based violence affects awareness, policy priorities, and preferred responses. A random sample of 1,250 villagers completed baseline interviews and attended one of two randomly assigned radio drama screenings, with follow-up interviews one month later. The 90-minute radio drama that focuses on GBV both raises awareness about the risks women face in their daily lives and increases the importance that audiences accord to sexual violence as a community problem. The authors concluded that narrative mass media offers an effective and scalable means for spurring collective action responses to threats to women's safety in public spaces.</p>
 </details>
 </div>
-
-## Works in Progress
 
 <div class="paper">
 <div class="title">A national-scale field experiment of radio messages and public health services in Tanzania</div>
