@@ -1,0 +1,13 @@
+{{ define "main" }}
+<article class="post">
+  <div class="post-meta">
+    {{ .Date.Format "Jan 2, 2006" }}{{ with .Params.source }} · {{ . }}{{ end }}
+  </div>
+  <h2 class="post-heading">{{ .Title }}</h2>
+  {{ with .Params.link }}
+  <div class="post-via"><a href="{{ . }}" target="_blank" rel="noopener">{{ . }} <span class="ext">↗</span></a></div>
+  {{ end }}
+  <div class="post-body">{{ .Content }}</div>
+  <div class="post-back"><a href="/blog/">← all posts</a></div>
+</article>
+{{ end }}

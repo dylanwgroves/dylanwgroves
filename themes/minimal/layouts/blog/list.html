@@ -1,0 +1,21 @@
+{{ define "main" }}
+<div class="blog-intro">{{ .Content }}</div>
+<ul class="post-list">
+  {{ range .Pages.ByDate.Reverse }}
+  {{ $link := .Params.link }}
+  <li class="post-item">
+    <div class="post-meta">
+      {{ .Date.Format "Jan 2, 2006" }}{{ with .Params.source }} · {{ . }}{{ end }}
+    </div>
+    <div class="post-title">
+      {{ if $link }}
+      <a href="{{ $link }}" target="_blank" rel="noopener">{{ .Title }} <span class="ext">↗</span></a>
+      {{ else }}
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      {{ end }}
+    </div>
+    {{ with .Content }}<div class="post-body">{{ . }}</div>{{ end }}
+  </li>
+  {{ end }}
+</ul>
+{{ end }}

@@ -3,6 +3,11 @@ locale = 'en-us'
 title = 'Dylan W. Groves'
 theme = 'minimal'
 
+# No tag/category browsing pages on this site; `tags` in blog front matter is
+# kept as metadata only. This empty table disables Hugo's default taxonomies
+# and the "found no layout file for kind taxonomy/term" build warnings.
+[taxonomies]
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

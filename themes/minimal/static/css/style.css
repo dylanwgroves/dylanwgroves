@@ -154,6 +154,50 @@ h2:first-of-type { margin-top: 0; }
   max-width: 620px;
 }
 
+/* Blog */
+.blog-intro { color: var(--muted); font-size: 15px; margin-bottom: 40px; }
+
+.post-list { list-style: none; padding: 0; }
+
+.post-item { margin-bottom: 30px; }
+
+.post-meta {
+  font-family: var(--sans);
+  font-size: 12px;
+  color: var(--muted);
+  letter-spacing: 0.2px;
+  margin-bottom: 3px;
+}
+
+.post-title { font-size: 16px; font-weight: 600; line-height: 1.4; }
+
+.post-title a { color: var(--text); text-decoration: none; transition: color 0.2s; }
+
+.post-title a:hover { color: var(--muted); }
+
+.post-title .ext { font-size: 12px; color: var(--muted); }
+
+.post-body { font-size: 15px; margin-top: 6px; }
+
+.post-body p { margin-bottom: 10px; }
+
+.post-body p:last-child { margin-bottom: 0; }
+
+/* Single post */
+.post-heading { font-size: 20px; margin-top: 4px; margin-bottom: 12px; }
+
+.post-via { font-family: var(--sans); font-size: 13px; margin-bottom: 20px; word-break: break-all; }
+
+.post-via a { color: var(--muted); text-decoration: none; }
+
+.post-via a:hover { color: var(--text); }
+
+.post-back { margin-top: 40px; font-family: var(--sans); font-size: 13px; }
+
+.post-back a { color: var(--muted); text-decoration: none; }
+
+.post-back a:hover { color: var(--text); }
+
 /* Teaching */
 .course { margin-bottom: 20px; }
 
