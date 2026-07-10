@@ -1,5 +1,5 @@
 ---
-title: "Barsetshire"
+title: "Link: Notes on Trollope's Barsetshire"
 date: 2026-07-09T14:55:42-04:00
 draft: false
 link: "https://oook.info/Trollope/Trollope21i26.html"
