@@ -194,6 +194,15 @@ h2:first-of-type { margin-top: 0; }
 
 .post-body p { margin-bottom: 10px; }
 
+.post-body img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 12px 0 4px;
+  border: 1px solid var(--border);
+  padding: 16px;
+}
+
 .post-body p:last-child { margin-bottom: 0; }
 
 /* Single post */
