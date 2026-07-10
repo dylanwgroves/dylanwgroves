@@ -155,7 +155,20 @@ h2:first-of-type { margin-top: 0; }
 }
 
 /* Blog */
-.blog-intro { color: var(--muted); font-size: 15px; margin-bottom: 40px; }
+.header-compact { margin-bottom: 16px; }
+
+.header-compact .home-link {
+  font-family: var(--sans);
+  font-size: 14px;
+  color: var(--muted);
+  text-decoration: none;
+  letter-spacing: 0.2px;
+  transition: color 0.2s;
+}
+
+.header-compact .home-link:hover { color: var(--text); }
+
+.blog-intro { color: var(--muted); font-size: 15px; font-style: italic; margin-bottom: 40px; }
 
 .post-list { list-style: none; padding: 0; }
 
