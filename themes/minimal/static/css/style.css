@@ -194,6 +194,23 @@ h2:first-of-type { margin-top: 0; }
 
 .post-body p { margin-bottom: 10px; }
 
+.post-body blockquote {
+  margin: 10px 0 4px;
+  padding-left: 16px;
+  border-left: 2px solid var(--border);
+  font-style: italic;
+  color: var(--text);
+}
+
+.post-body blockquote .attribution,
+.post-body blockquote footer {
+  display: block;
+  margin-top: 8px;
+  font-style: normal;
+  font-size: 14px;
+  color: var(--muted);
+}
+
 .post-body img {
   display: block;
   max-width: 100%;
