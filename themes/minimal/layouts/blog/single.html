@@ -5,7 +5,11 @@
   </div>
   <h2 class="post-heading">{{ .Title }}</h2>
   {{ with .Params.link }}
+    {{ if hasPrefix . "/" }}
+  <div class="post-via"><a href="{{ . }}">{{ . }}</a></div>
+    {{ else }}
   <div class="post-via"><a href="{{ . }}" target="_blank" rel="noopener">{{ . }} <span class="ext">↗</span></a></div>
+    {{ end }}
   {{ end }}
   <div class="post-body">{{ .Content }}</div>
   <div class="post-back"><a href="/blog/">← all posts</a></div>

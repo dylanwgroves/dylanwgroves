@@ -9,7 +9,11 @@
     </div>
     <div class="post-title">
       {{ if $link }}
-      <a href="{{ $link }}" target="_blank" rel="noopener">{{ .Title }} <span class="ext">↗</span></a>
+        {{ if hasPrefix $link "/" }}
+        <a href="{{ $link }}">{{ .Title }}</a>
+        {{ else }}
+        <a href="{{ $link }}" target="_blank" rel="noopener">{{ .Title }} <span class="ext">↗</span></a>
+        {{ end }}
       {{ else }}
       <a href="{{ .Permalink }}">{{ .Title }}</a>
       {{ end }}
