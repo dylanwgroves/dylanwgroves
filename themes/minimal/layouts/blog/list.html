@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="blog-intro">{{ .Content }}</div>
+<p class="blog-intro">{{ .Title }} <a class="feed-link" href="/blog/index.xml">RSS</a></p>
 <ul class="post-list">
   {{ range .Pages.ByDate.Reverse }}
   {{ $link := .Params.link }}
