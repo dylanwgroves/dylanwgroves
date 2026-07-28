@@ -6,3 +6,7 @@ link: "https://www.economist.com/middle-east-and-africa/2026/07/28/west-africa-h
 source: "The Economist"
 tags: []
 ---
+
+See also: [Wanted drug trafficker puts Sierra Leone's development aid at risk](https://www.ft.com/content/e9a0ff0c-797e-4045-b042-0fca21594142?syn-25a6b1a6=1)
+
+See also: [President Bio keeps cocaine lord in the family](https://www.africa-confidential.com/special-report/id/49/president-bio-keeps-cocaine-lord-in-the-family)
