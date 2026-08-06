@@ -17,8 +17,11 @@ The median post is 8 lines. Never write an essay.
 2. **Write the file** to `content/blog/<slug>.md` per the format below.
 3. **Show him the result** — the full file contents — and, if you are proposing tags,
    say so explicitly: *"Proposing tags: [...] — ok?"* Tags are never silently added.
-4. **Wait for approval, then commit.** Do not commit before he says yes. Do not push
-   unless he asks — a push to `main` deploys to dylanwgroves.com via Netlify immediately.
+4. **Wait for approval, then publish.** Do not touch git before he says yes. Once he
+   approves ("good", "post", "yes"), go all the way: commit *and* push. He has been
+   explicit that approval means the entry should appear on the website, not sit in a
+   local commit. Then confirm it is actually live (see below) rather than assuming the
+   Netlify build succeeded.
 
 ## File format
 
@@ -147,10 +150,20 @@ the newsletter for Substacks — matching existing history:
 For an edit to an existing entry, describe the change instead:
 `blog: add See also links to West Africa cocaine trading hub post`
 
-**Do not push** unless asked. `git push` to `main` publishes to the live site.
+Then `git push origin main`, which triggers the Netlify build.
 
 ## Checking your work
 
-Preview with the `hugo-server` config in `.claude/launch.json` (port 1313) and look at
-`/blog/`. Worth doing when the entry has a body with raw HTML, an image, or a poem —
-skip it for a front-matter-only post.
+**Confirm the entry is live.** A push is not a publication — Netlify still has to build.
+After pushing, wait for the deploy and verify, rather than reporting success on the
+strength of the push alone:
+
+```bash
+until curl -s https://dylanwgroves.com/blog/ | grep -q "<distinctive words from the title>"; do sleep 5; done
+```
+
+Builds take well under a minute. Then report the entry as live.
+
+For an entry whose body has raw HTML, an image, or a poem, preview locally first with the
+`hugo-server` config in `.claude/launch.json` (port 1313) and look at `/blog/`. Skip that
+for a front-matter-only post.
