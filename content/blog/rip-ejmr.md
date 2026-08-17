@@ -6,3 +6,5 @@ link: "https://www.chrisbrunet.com/p/rip-ejmr-2008-2026"
 source: "Chris Brunet (Christopher Brunet)"
 tags: []
 ---
+
+Posting this for the history, not the argument.
