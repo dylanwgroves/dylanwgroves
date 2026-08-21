@@ -85,6 +85,16 @@ title: "Research"
 ## Published and Forthcoming
 
 <div class="paper">
+<div class="title">Media capture in Africa: a case study in Tanzania</div>
+<div class="authors">Dylan W. Groves, Anya Schiffrin, Marco Kitundu, Francis Nyonzo</div>
+<div class="venue">Routledge Handbook of Political Corruption (2026)</div>
+<div class="paper-links"><a href="https://www.dropbox.com/scl/fi/nl7im6ce4c1jle8dq3f1p/mediacapture_routledge_2025" target="_blank">paper</a></div>
+<details><summary>abstract</summary>
+<p>The role of quality media in countering corruption has been well documented. This chapter discusses the concept of "media capture". We define media capture a situation in which the news media are controlled either directly by governments or by vested interests networked with politics. We apply this concept to African media and provide a case study of Tanzania. Using a newly developed hand-coded dataset on media ownership in Tanzania since 1990 and surveys of more than 300 journalists, and 20 in-depth interviews with journalists and media owners, we document the extent to which media capture is used to undermine coverage of corruption scandals in Tanzania and other Sub-Saharan African countries.</p>
+</details>
+</div>
+
+<div class="paper">
 <div class="title">The effect of radio dramas on willingness to report intimate partner violence: evidence from a survey experiment in Tanzania</div>
 <div class="authors">Kate SantaMaria, Noela Ringo, Kasim Abdallah, Dylan W. Groves, Brenda Nyambo</div>
 <div class="venue">Frontiers: Health Communication (2026)</div>
@@ -107,16 +117,6 @@ title: "Research"
 <div class="paper-links"><a href="https://www.dropbox.com/scl/fi/tn5l5les6hf067ieshusl/rahmani_behavioural_public_policy.pdf" target="_blank">paper</a></div>
 <details><summary>abstract</summary>
 <p> Is narrative entertainment simply a form of recreation, or does it have meaningful effects on public opinion? Building on prior reviews, we present a meta-analysis of 377 findings from 77 experiments evaluating the persuasive effects of narrative radio, television, and film, including a growing body of work from low- and middle-income countries. Our sample includes both entertainment-first narratives---popular media created primarily to entertain but which may incidentally shape audiences’ attitudes, beliefs, and behaviors---and education-first narratives designed by policymakers to inform, persuade, or motivate public action. Using a hierarchical-effects model, we assess narrative media’s influence across a wide range of settings and issue domains. The results suggest that narrative entertainment is quite influential, with sizable persuasive effects that remain apparent weeks after initial exposure. A smaller literature reports head-to-head tests of the relative effectiveness of narrative versus non-narrative messages; although inconclusive, the evidence suggests that narratives may be only slightly more persuasive than non-narrative messages. If true, this finding would imply that the main advantage of narratives may be their ability to attract and engage large and diverse audiences. We conclude by calling attention to gaps in the literature and proposing avenues for further research.<p>
-</details>
-</div>
-
-<div class="paper">
-<div class="title">Media capture in Africa: a case study in Tanzania</div>
-<div class="authors">Dylan W. Groves, Anya Schiffrin, Marco Kitundu, Francis Nyonzo</div>
-<div class="venue">Routledge Handbook of Political Corruption (Forthcoming)</div>
-<div class="paper-links"><a href="https://www.dropbox.com/scl/fi/nl7im6ce4c1jle8dq3f1p/mediacapture_routledge_2025" target="_blank">paper</a></div>
-<details><summary>abstract</summary>
-<p>The role of quality media in countering corruption has been well documented. This chapter discusses the concept of "media capture". We define media capture a situation in which the news media are controlled either directly by governments or by vested interests networked with politics. We apply this concept to African media and provide a case study of Tanzania. Using a newly developed hand-coded dataset on media ownership in Tanzania since 1990 and surveys of more than 300 journalists, and 20 in-depth interviews with journalists and media owners, we document the extent to which media capture is used to undermine coverage of corruption scandals in Tanzania and other Sub-Saharan African countries.</p>
 </details>
 </div>
 
