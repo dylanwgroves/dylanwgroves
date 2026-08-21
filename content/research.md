@@ -23,15 +23,6 @@ title: "Research"
 </div>
 
 <div class="paper">
-<div class="title">Climate and cooperation: evidence from Namibia</div>
-<div class="authors">Garrett Adler, Dylan W. Groves</div>
-<div class="venue">Under Review</div>
-<details><summary>abstract</summary>
-<p>Political outcomes ranging from mass migration to leadership change to violent conflict have been linked to adverse climatic conditions associated with climate change. While large scale cross-country panel datasets can provide substantiation of such relationships, relatively little rigorous evidence is available to identify micro-level behavioral and collective responses that could help to explain these links. In this paper we explore the micro-level impact of climate stress by pairing an exogenous climatic shock -- a severe and spatially varying drought -- with "lab-in-the-field" behavioral games and surveyed measures of collective action from ~1000 livestock managers in 123 grazing areas across northern Namibia. First, we leverage repeated measurements of the same livestock managers over time to test whether play in public goods games differs between more and less severe drought conditions. Second, in the same villages, we explore how observed measures of collective behavior, including participation in water resource management and community grazing institutions, vary with the experience of drought. Results provide evidence that, in this context of acute vulnerability to climate change, severe climatic shocks tend not to affect or to increase individuals' propensity to act pro-socially and collectively. Where present, such counter-veiling collective responses to the devastation of drought may enhance resilience in the face of climate change and limit the rise of disruptive future political outcomes, including mass migration and conflict.</p>
-</details>
-</div>
-
-<div class="paper">
 <div class="title">Journalism and blame attribution in hegemonic party regimes: evidence from Tanzania</div>
 <div class="authors">Benjamin Risley, Dylan W. Groves, Zakayo Zakaria</div>
 <div class="venue">Under Review</div>
