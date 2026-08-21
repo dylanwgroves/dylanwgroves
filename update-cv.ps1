@@ -3,19 +3,21 @@
 #   .\update-cv.ps1            Build the PDF and stage it at static/groves_cv.pdf
 #   .\update-cv.ps1 -Publish   ...and also commit ONLY that PDF and push (Netlify redeploys)
 #
-# The CV source lives in the Dropbox-synced Overleaf folder. We build in a temp
-# dir because Dropbox corrupts a PDF written inside its tree. Publishing commits
+# The CV source lives in the git-synced Overleaf clone at C:\.overleaf\dylan_cv.
+# We pull first so a stale clone can't silently publish an out-of-date CV, and we
+# build in a temp dir to keep aux files out of the source tree. Publishing commits
 # just the one file, so any other work-in-progress in this repo is left untouched.
 
 param([switch]$Publish)
 $ErrorActionPreference = 'Stop'
 
-$Src   = 'C:\Users\grovesd\Dropbox\Apps\Overleaf\Dylan - CV'
+$Src   = 'C:\.overleaf\dylan_cv'
 $Build = Join-Path $env:TEMP 'cvbuild'
-$Repo  = 'C:\repos\dylanwgroves'
+$Repo  = 'C:\.code\dylanwgroves'
 $Dest  = Join-Path $Repo 'static\groves_cv.pdf'
 
-# 1. Build in a temp dir outside Dropbox.
+# 1. Refresh the source clone, then build in a temp dir outside it.
+git -C $Src pull --ff-only
 New-Item -ItemType Directory -Force -Path $Build | Out-Null
 Copy-Item (Join-Path $Src 'main.tex')       $Build -Force
 Copy-Item (Join-Path $Src 'references.bib') $Build -Force
