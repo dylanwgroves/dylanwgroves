@@ -1,6 +1,6 @@
 ---
 title: "Profile: Mark"
-date: 2026-09-17T16:48:10-04:00
+date: 2026-09-15T13:40:30-04:00
 draft: false
 link: "https://colossus.com/article/mark-zuckerberg-profile/"
 source: "Colossus (Jeremy Stern)"
