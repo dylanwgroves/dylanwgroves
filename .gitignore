@@ -2,3 +2,6 @@ public/
 resources/
 .hugo_build.lock
 desktop.ini
+
+# Local state for the WhatsApp blog queue (see .claude/skills/blogpost/SKILL.md)
+.claude/blog-queue.json
