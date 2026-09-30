@@ -32,9 +32,9 @@ title: "Research"
 </div>
 
 <div class="paper">
-<div class="title">Information or motivation? How watchdog journalism can promote government responsiveness in Tanzania</div>
+<div class="title"><a href="https://papers.ssrn.com/sol3/papers.cfm" target="_blank">Information or motivation? How watchdog journalism can promote government responsiveness in Tanzania</a></div>
 <div class="authors">Dylan W. Groves</div>
-<div class="paper-links"><a href="https://papers.ssrn.com/sol3/papers.cfm" target="_blank">paper</a> <a href="https://www.dropbox.com/s/d5x6kjomivn8plt" target="_blank">pre-analysis plan</a></div>
+<div class="paper-links"><a href="https://www.dropbox.com/s/d5x6kjomivn8plt" target="_blank">pre-analysis plan</a></div>
 <details><summary>abstract</summary>
 <p>I evaluate two mechanisms by which journalism influences village government responsiveness: informing government officials about the preferences of their constituents and motivating officials with the threat of public exposure. I first draw on surveys of 4,200 citizens and 340 leaders across 109 Tanzanian villages to document whether leaders understand, share, and respond to the policy preferences of their constituents. I then examine the effect of two overlapping treatments, each designed to capture a mechanism of journalism's influence. In the "information" experiment, I randomly assigned leaders to receive information about the priorities of their constituents. In the "motivation" experiment, I randomly assigned leaders to be contacted by journalists planning reports on a specific development issue in the leader's village. To evaluate outcomes, I developed a behavioral measure of the willingness of village leaders to lobby district council officials for development projects on behalf of their constituents. I find mixed evidence for the role of information, strong evidence for the role of motivation, and no evidence for complimentary between the two mechanisms. The effect is concentrated among elected officials rather than bureaucrats, but not in electorally competitive communities.</p>
 </details>
@@ -49,9 +49,9 @@ title: "Research"
 </div>
 
 <div class="paper">
-<div class="title">Governments respond to watchdog journalism: evidence from a field experiment in Tanzania</div>
+<div class="title"><a href="https://www.dropbox.com/s/xivxgbphswjjrjc" target="_blank">Governments respond to watchdog journalism: evidence from a field experiment in Tanzania</a></div>
 <div class="authors">Dylan W. Groves</div>
-<div class="paper-links"><a href="https://www.dropbox.com/s/xivxgbphswjjrjc" target="_blank">paper</a> <a href="https://app.box.com/s/cslc78tosc3dzlyjm8p7w4bawer78cvg" target="_blank">pre-analysis plan</a></div>
+<div class="paper-links"><a href="https://app.box.com/s/cslc78tosc3dzlyjm8p7w4bawer78cvg" target="_blank">pre-analysis plan</a></div>
 <details><summary>abstract</summary>
 <p>I evaluate the influence of investigative journalism on government responsiveness using a national scale randomized controlled trial in Tanzania. I collaborated with 15 regional radio stations to identify 206 communities experiencing service delivery problems like flooded roads, broken water points, and missing medical supplies. I then randomly assigned half the communities to the treatment group and half the communities to a pure control condition. In treatment communities, journalists investigated the service delivery problem, broadcast their findings on regional radio, and conducted follow up reports several months later. Seven months after the reports were broadcast, independent auditors evaluated the service delivery problem in all 206 communities. I find that treatment communities received higher audit scores on average (coefficient = 0.25 standard deviations, randomization inference p-value = 0.033), amounting to one road or water point repair in every four treated communities. The investigations generated observable responses by un-elected government ministries but not citizens, local government officials, or members of parliament.</p>
 </details>
@@ -76,20 +76,19 @@ title: "Research"
 ## Published and Forthcoming
 
 <div class="paper">
-<div class="title">Media capture in Africa: a case study in Tanzania</div>
+<div class="title"><a href="https://www.dropbox.com/scl/fi/nl7im6ce4c1jle8dq3f1p/mediacapture_routledge_2025" target="_blank">Media capture in Africa: a case study in Tanzania</a></div>
 <div class="authors">Dylan W. Groves, Anya Schiffrin, Marco Kitundu, Francis Nyonzo</div>
 <div class="venue">Routledge Handbook of Political Corruption (2026)</div>
-<div class="paper-links"><a href="https://www.dropbox.com/scl/fi/nl7im6ce4c1jle8dq3f1p/mediacapture_routledge_2025" target="_blank">paper</a></div>
 <details><summary>abstract</summary>
 <p>The role of quality media in countering corruption has been well documented. This chapter discusses the concept of "media capture". We define media capture a situation in which the news media are controlled either directly by governments or by vested interests networked with politics. We apply this concept to African media and provide a case study of Tanzania. Using a newly developed hand-coded dataset on media ownership in Tanzania since 1990 and surveys of more than 300 journalists, and 20 in-depth interviews with journalists and media owners, we document the extent to which media capture is used to undermine coverage of corruption scandals in Tanzania and other Sub-Saharan African countries.</p>
 </details>
 </div>
 
 <div class="paper">
-<div class="title">The effect of radio dramas on willingness to report intimate partner violence: evidence from a survey experiment in Tanzania</div>
+<div class="title"><a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1707577/full" target="_blank">The effect of radio dramas on willingness to report intimate partner violence: evidence from a survey experiment in Tanzania</a></div>
 <div class="authors">Kate SantaMaria, Noela Ringo, Kasim Abdallah, Dylan W. Groves, Brenda Nyambo</div>
 <div class="venue">Frontiers: Health Communication (2026)</div>
-<div class="paper-links"><a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1707577/full" target="_blank">paper</a> <a href="https://osf.io/ft54b/overview?view_only=3883d1d35ea340f7af3aa264ba7664d5" target="_blank">replication materials</a></div>
+<div class="paper-links"><a href="https://osf.io/ft54b/overview?view_only=3883d1d35ea340f7af3aa264ba7664d5" target="_blank">replication materials</a></div>
 <details><summary>abstract</summary>
 <p> <i>Introduction</i>. Intimate partner violence remains widespread partly because survivors and witnesses are reluctant to report incidents to authorities. 
 
@@ -102,110 +101,104 @@ title: "Research"
 </div>
 
 <div class="paper">
-<div class="title">The persuasive effects of narrative entertainment: a meta-analysis of recent experiments</div>
+<div class="title"><a href="https://www.dropbox.com/scl/fi/tn5l5les6hf067ieshusl/rahmani_behavioural_public_policy.pdf" target="_blank">The persuasive effects of narrative entertainment: a meta-analysis of recent experiments</a></div>
 <div class="authors">Bardia Rahmani, Dylan W. Groves, Beatrice Montano, Donald P. Green</div>
 <div class="venue">Behavioral Science and Public Policy (2025)</div>
-<div class="paper-links"><a href="https://www.dropbox.com/scl/fi/tn5l5les6hf067ieshusl/rahmani_behavioural_public_policy.pdf" target="_blank">paper</a></div>
 <details><summary>abstract</summary>
 <p> Is narrative entertainment simply a form of recreation, or does it have meaningful effects on public opinion? Building on prior reviews, we present a meta-analysis of 377 findings from 77 experiments evaluating the persuasive effects of narrative radio, television, and film, including a growing body of work from low- and middle-income countries. Our sample includes both entertainment-first narratives---popular media created primarily to entertain but which may incidentally shape audiences’ attitudes, beliefs, and behaviors---and education-first narratives designed by policymakers to inform, persuade, or motivate public action. Using a hierarchical-effects model, we assess narrative media’s influence across a wide range of settings and issue domains. The results suggest that narrative entertainment is quite influential, with sizable persuasive effects that remain apparent weeks after initial exposure. A smaller literature reports head-to-head tests of the relative effectiveness of narrative versus non-narrative messages; although inconclusive, the evidence suggests that narratives may be only slightly more persuasive than non-narrative messages. If true, this finding would imply that the main advantage of narratives may be their ability to attract and engage large and diverse audiences. We conclude by calling attention to gaps in the literature and proposing avenues for further research.<p>
 </details>
 </div>
 
 <div class="paper">
-<div class="title">Better together: the perceived impact of the Pandora Papers on journalism and journalists</div>
+<div class="title"><a href="https://www.dropbox.com/scl/fi/f4vy0xepa4j77xjf1f88v/icij_bettertogether_ic-s_final.pdf" target="_blank">Better together: the perceived impact of the Pandora Papers on journalism and journalists</a></div>
 <div class="authors">Anya Schiffrin, Dylan W. Groves, Audrey Hatfield, Lindsay Green-Barber</div>
 <div class="venue">Information, Communication, and Society (2024)</div>
-<div class="paper-links"><a href="https://www.dropbox.com/scl/fi/f4vy0xepa4j77xjf1f88v/icij_bettertogether_ic-s_final.pdf" target="_blank">paper</a></div>
 <details><summary>abstract</summary>
 <p>The question of how to measure and quantify the impact of investigative reporting has long bedeviled communications scholars, journalists and media development practitioners. This paper analyzes how journalists and media organizations perceive the impact of one of the largest collaborations of investigative journalism ever conducted: the International Consortium of Investigative Journalists’ (ICIJ) Pandora Papers. Drawing on new global survey of more than 55 media outlets that participated in the consortium and a recently introduced taxonomy of journalism impact, our analysis yields both substantive and methodological insights. Substantively, we show that journalists and media organizations perceive that collaborative investigations generate substantial positive "internal" returns for participating organizations, such as professional development and new media partnerships, although we observe no perceived impact on revenue. Methodologically, we show the value of organizing studies of media impact using a multi-dimensional taxonomy and make several proposals to ensure that the full range of perceived media impacts are captured.</p>
 </details>
 </div>
 
 <div class="paper">
-<div class="title">The effects of independent local radio on Tanzanian public opinion: evidence from a planned natural experiment</div>
+<div class="title"><a href="https://www.journals.uchicago.edu/doi/10.1086/726964" target="_blank">The effects of independent local radio on Tanzanian public opinion: evidence from a planned natural experiment</a></div>
 <div class="authors">Donald P. Green, Dylan W. Groves, Constantine Manda, Beatrice Montano, Bardia Rahmani</div>
 <div class="venue">Journal of Politics (2023)</div>
-<div class="paper-links"><a href="https://www.journals.uchicago.edu/doi/10.1086/726964" target="_blank">paper</a> <a href="https://dataverse.harvard.edu" target="_blank">replication</a> <a href="https://www.dropbox.com/scl/fi/dkiakv8w624cg5dydl9h4" target="_blank">pre-analysis plan</a></div>
+<div class="paper-links"><a href="https://dataverse.harvard.edu" target="_blank">replication</a> <a href="https://www.dropbox.com/scl/fi/dkiakv8w624cg5dydl9h4" target="_blank">pre-analysis plan</a></div>
 <details><summary>abstract</summary>
 <p>We describe a natural experiment occasioned by an abrupt increase in the transmission range of an independent Tanzanian radio station whose broadcasts emphasize current affairs and gender equality. Some villages that formerly lay outside the catchment area of this radio station could now receive it, while nearby villages remained outside of reception range. Prior to the change in transmitter range in 2018, we conducted a baseline survey in both treated and untreated villages and found them to be similar in terms of prevailing social attitudes and political interest. An endline survey conducted in 2020 shows that respondents in areas that received the new radio signal were substantially more likely to listen to the station, and their levels of political interest and knowledge about domestic politics were significantly higher than their counterparts in villages where the signal could not reach. Attitude change on a range of gender issues, however, was sporadic.</p>
 </details>
 </div>
 
 <div class="paper">
-<div class="title">Perspective taking through partisan eyes: cross-national empathy, partisanship, and attitudes towards international cooperation</div>
+<div class="title"><a href="https://www.dropbox.com/s/io31ck8gk1d7rud" target="_blank">Perspective taking through partisan eyes: cross-national empathy, partisanship, and attitudes towards international cooperation</a></div>
 <div class="authors">Don Casler, Dylan W. Groves</div>
 <div class="venue">Journal of Politics (2023)</div>
-<div class="paper-links"><a href="https://www.dropbox.com/s/io31ck8gk1d7rud" target="_blank">paper</a> <a href="https://dataverse.harvard.edu/dataset.xhtml" target="_blank">replication</a></div>
+<div class="paper-links"><a href="https://dataverse.harvard.edu/dataset.xhtml" target="_blank">replication</a></div>
 <details><summary>abstract</summary>
 <p>How does cross-national empathy influence public attitudes towards international cooperation? Few studies have considered whether the capacity to see the world from the perspective of other actors promotes international cooperation or how partisanship may condition empathy's influence. In this paper, we argue that cross-national empathy increases support for international agreements because seeing issues through the eyes of other states expands the range of considerations that individuals use in forming their attitudes. However, partisan attachments undercut this effect. Across three waves of an original survey experiment covering 6,292 respondents, we find that cues to "step into" the perspective of other states modestly increase aggregate support for international cooperation. But this effect is concentrated entirely among those with weak partisan attachments, regardless of the issue area (climate change or nuclear nonproliferation) and potential partner country (China or India). Our results speak to both the promises and shortcomings of empathy as a device for encouraging cooperative outcomes in international affairs.</p>
 </details>
 </div>
 
 <div class="paper">
-<div class="title">Understanding journalism impact: a multidimensional taxonomy for professional, organizational, and societal change</div>
+<div class="title"><a href="https://intellectdiscover.com/content/journals/10.1386/ajms_00121_1" target="_blank">Understanding journalism impact: a multidimensional taxonomy for professional, organizational, and societal change</a></div>
 <div class="authors">Anya Schiffrin, Andre Correa-Almeida, Lindsay Green-Barber, Adelina Yankova, Dylan W. Groves</div>
 <div class="venue">Journal of Applied Journalism and Media Studies (2023)</div>
-<div class="paper-links"><a href="https://intellectdiscover.com/content/journals/10.1386/ajms_00121_1" target="_blank">paper</a></div>
 <details><summary>abstract</summary>
 <p>How should we measure the impact of investigative journalism? Media scholars and practitioners have turned their attention towards understanding the causal effect of media reports on a range of social, political, and economic outcomes. Their interest has been spurred by the increased availability of data, by the emergence of new tools for rigorously assessing causal effects, and by pressure from donors interested in understanding the returns on their investments in media and journalism programs. Drawing on literature from multiple disciplines, we propose a multi-faceted metric which future researchers, journalists and news agencies will be able to use when analyzing media impact.</p>
 </details>
 </div>
 
 <div class="paper">
-<div class="title">Seeing cattle like a state: sedentist assumptions of the Namibian Livestock Identification and Traceability System</div>
+<div class="title"><a href="https://centaur.reading.ac.uk/114146/1/114146%20VoR.pdf" target="_blank">Seeing cattle like a state: sedentist assumptions of the Namibian Livestock Identification and Traceability System</a></div>
 <div class="authors">Max Mauerman, Venoo Tjiseua, Dylan W. Groves</div>
 <div class="venue">Nomadic Peoples (2023)</div>
-<div class="paper-links"><a href="https://centaur.reading.ac.uk/114146/1/114146%20VoR.pdf" target="_blank">paper</a></div>
 <details><summary>abstract</summary>
 <p>Livestock identification and traceability systems (LITS) are an increasingly prominent component of national livestock development policies around the world. In theory, LITS allow governments to more efficiently track and respond to disease and livestock theft. However, this paper argues that LITS are suffused with sedentist assumptions that are at odds with the livestock management practices of pastoralist communities. Drawing on qualitative interviews as well as one author's experience of growing up and managing cattle in a pastoralist community, we review the sedentist assumptions that animate the Namibian Livestock Identification and Traceability System (NamLITS). We then describe how pastoralists in north-western Namibia perceive that NamLITS has affected their economic, social and political lives, as well as the strategies that pastoralists use to comply and circumvent NamLITS. We conclude with lessons for governments and development practitioners that are considering implementing livestock tracing systems as well as mobile communities affected by them.</p>
 </details>
 </div>
 
 <div class="paper">
-<div class="title">Community-based rangeland management in Namibia improves resource governance but not environmental and economic outcomes</div>
+<div class="title"><a href="https://www.nature.com/articles/s43247-022-00361-5" target="_blank">Community-based rangeland management in Namibia improves resource governance but not environmental and economic outcomes</a></div>
 <div class="authors">D. Layne Coppock, Lucas Crowley, Susan L. Durham, Dylan W. Groves, Julian C. Jamison, Dean Karlan, Brien E. Norton, R. Douglas Ramsey</div>
 <div class="venue">Nature — Communications Earth &amp; Environment (2022)</div>
-<div class="paper-links"><a href="https://www.nature.com/articles/s43247-022-00361-5" target="_blank">paper</a> <a href="https://www.socialscienceregistry.org" target="_blank">pre-analysis plan</a> <a href="https://www.mcc.gov/resources" target="_blank">replication</a></div>
+<div class="paper-links"><a href="https://www.socialscienceregistry.org" target="_blank">pre-analysis plan</a> <a href="https://www.mcc.gov/resources" target="_blank">replication</a></div>
 <details><summary>abstract</summary>
 <p>Classic theories suggest that common pool resources are subject to overexploitation. Community-based resource management approaches may ameliorate tragedy of the commons effects. Here we use a randomized evaluation in Namibia's communal rangelands to study a comprehensive four-year program to support community-based rangeland and cattle management. We find that the program led to persistent and large improvements for eight of thirteen indices of social and behavioral outcomes. Effects on rangeland health, cattle productivity and household economics, however, were either negative or nil. Positive impacts on community resource management may have been offset by communities' inability to control grazing by non-participating herds and inhibited by an unresponsive rangeland sub-system. This juxtaposition, in which measurable improvements in community resource management did not translate into better outcomes for households or rangeland health, demonstrates the fragility of the causal pathway from program implementation to intended socioeconomic and environmental outcomes. It also points to challenges for improving climate change–adaptation strategies.</p>
 </details>
 </div>
 
 <div class="paper">
-<div class="title">A radio drama's effects on attitudes toward early and forced marriage: results from a field experiment in rural Tanzania</div>
+<div class="title"><a href="https://www.dropbox.com/s/tzeqrlf7asmrvst/cps_efm_final.pdf" target="_blank">A radio drama's effects on attitudes toward early and forced marriage: results from a field experiment in rural Tanzania</a></div>
 <div class="authors">Donald P. Green, Dylan W. Groves, Constantine Manda, Beatrice Montano, Bardia Rahmani</div>
 <div class="venue">Comparative Political Studies (2022)</div>
-<div class="paper-links"><a href="https://www.dropbox.com/s/tzeqrlf7asmrvst/cps_efm_final.pdf" target="_blank">paper</a> <a href="https://osf.io/c8tfu" target="_blank">pre-analysis plan</a> <a href="https://dataverse.harvard.edu/dataset.xhtml" target="_blank">replication</a></div>
+<div class="paper-links"><a href="https://osf.io/c8tfu" target="_blank">pre-analysis plan</a> <a href="https://dataverse.harvard.edu/dataset.xhtml" target="_blank">replication</a></div>
 <details><summary>abstract</summary>
 <p>Early and forced marriage (EFM) is an increasing focus of international organizations and local non-government organizations. This study assesses the extent to which attitudes and norms related to EFM can be changed by locally tailored media campaigns. A two-hour radio drama set in rural Tanzania was presented to Tanzanian villagers as part of a placebo-controlled experiment randomized at the village level. A random sample of 1,200 villagers was interviewed at baseline and invited to a presentation of the radio drama, 83% of whom attended. 95% of baseline respondents were reinterviewed two weeks later, and 97% fifteen months after that. The radio drama produced sizable and statistically significant effects on attitudes and perceived norms concerning forced marriage, which was the focus of the radio drama, as well as more general attitudes about gender equality. Fifteen months later, treatment effects diminished, but we continue to see evidence of EFM-related attitude change.</p>
 </details>
 </div>
 
 <div class="paper">
-<div class="title">A radio drama's effects on HIV attitudes and policy priorities: a field experiment in Tanzania</div>
+<div class="title"><a href="https://journals.sagepub.com/doi/full/10.1177/10901981211010421" target="_blank">A radio drama's effects on HIV attitudes and policy priorities: a field experiment in Tanzania</a></div>
 <div class="authors">Donald P. Green, Dylan W. Groves, Constantine Manda</div>
 <div class="venue">Health Education and Behavior (2021)</div>
-<div class="paper-links"><a href="https://journals.sagepub.com/doi/full/10.1177/10901981211010421" target="_blank">paper</a> <a href="https://osf.io/4tdz2" target="_blank">pre-analysis plan</a> <a href="https://www.dropbox.com/sh/wbf108jcz8m0fir" target="_blank">replication</a></div>
+<div class="paper-links"><a href="https://osf.io/4tdz2" target="_blank">pre-analysis plan</a> <a href="https://www.dropbox.com/sh/wbf108jcz8m0fir" target="_blank">replication</a></div>
 <details><summary>abstract</summary>
 <p>This study presented a condensed 2-hour Swahili radio drama to rural Tanzanians in a placebo-controlled village-level experiment. A random sample of 1,200 participants completed baseline interviews, with 83% attending the screening and 95% responding to a 2-week follow-up. In addition to increasing listeners' knowledge and support for disclosure of HIV status, the radio drama produced sizable and statistically significant effects on listeners' preference for hypothetical candidates promising improved HIV/AIDS treatment.</p>
 </details>
 </div>
 
 <div class="paper">
-<div class="title">The mismeasurement of cattle ownership in Namibia's Northern Communal Areas</div>
+<div class="title"><a href="https://www.ingentaconnect.com/contentone/whp/nomp/2020" target="_blank">The mismeasurement of cattle ownership in Namibia's Northern Communal Areas</a></div>
 <div class="authors">Dylan W. Groves, Venoo Tjiseua</div>
 <div class="venue">Nomadic Peoples (2020)</div>
-<div class="paper-links"><a href="https://www.ingentaconnect.com/contentone/whp/nomp/2020" target="_blank">paper</a></div>
 <details><summary>abstract</summary>
 <p>The standard approach to measuring livestock ownership in pastoralist communities relies on an assumption of uniformity that does not reflect the diverse concepts of ownership held by pastoralists themselves. In Namibia's Koakaveld Region, Himba and Herero pastoralist communities have a rich vocabulary for categorising the origins, usage rights and cultural valence of their cattle. Drawing on both authors' experience overseeing a large-scale rangeland management programme evaluation in Namibia's Northern Communal Areas – and one author's experience growing up in and keeping cattle in a Himba pastoralist community – we show how the standard approach to measuring cattle ownership undermines accurate estimates of livestock wealth, off-take and inequality, and obfuscates pastoralist's strategies for turning ecological variability to their advantage. We conclude with lessons about how multi-dimensional data collection methods improve upon the standard approach to livestock ownership measurements.</p>
 </details>
 </div>
 
 <div class="paper">
-<div class="title">The influence of two levels of debushing in Namibia's thornbush savanna on overall soil fertility, measured through bioassays</div>
+<div class="title"><a href="https://cheetah.org/cheetah-2019/wp-content/uploads/2017/12" target="_blank">The influence of two levels of debushing in Namibia's thornbush savanna on overall soil fertility, measured through bioassays</a></div>
 <div class="authors">Ibo Zimmermann, Mattis Nghikembua, D Shipingana, Dylan W. Groves, T Aron, L Marker</div>
 <div class="venue">Namibian Journal of the Environment (2017)</div>
-<div class="paper-links"><a href="https://cheetah.org/cheetah-2019/wp-content/uploads/2017/12" target="_blank">paper</a></div>
 <details><summary>abstract</summary>
 <p>A healthy and productive rangeland depends on well-functioning ecosystem services such as effective cycling of water and nutrients. After rangeland has degraded, bushes may encroach in nature's attempt to restore water and nutrient cycling. When bush encroachment is addressed by debushing, with harvested bush wood sold off the land, then nutrient cycling is disrupted, and soil fertility is likely to decline. Former debushing activities on different parts of farms of the Cheetah Conservation Fund in central Namibia provided the opportunity to assess the influence of debushing on overall fertility of soil. Sites were selected on the farm representing nine examples of each of uncleared, partially cleared and totally cleared land. The debushing had taken place at different times, varying between two and 13 years previously. Soil was collected from each of these 27 sites and subjected to bioassay by growing barley (Hordeum vulgare) and Moringa oleifera. Seedling emergence and height at five weeks for both species were greatest in uncleared soil and lowest in totally cleared soil, indicating the loss of soil fertility as debushing intensifies. There was no evidence of restoration of soil fertility, even 13 years after debushing. Nutritious grass is unlikely to grow well after debushing, and more bush is likely to regrow in nature's attempt at restoring fertility over the long term. If faster restoration is sought, then the full spectrum of minerals removed in harvested wood should be replaced on the land.</p>
 </details>
@@ -262,20 +255,19 @@ title: "Research"
 ## Policy Papers
 
 <div class="paper">
-<div class="title">Journalism for development: the role of journalism promoting democracy and political accountability and sustainable development</div>
+<div class="title"><a href="https://unesdoc.unesco.org/ark:/48223/pf0000389301" target="_blank">Journalism for development: the role of journalism promoting democracy and political accountability and sustainable development</a></div>
 <div class="authors">Joseph E. Stiglitz, Anya Schiffrin, Dylan W. Groves</div>
-<div class="paper-links"><a href="https://unesdoc.unesco.org/ark:/48223/pf0000389301" target="_blank">paper</a></div>
 </div>
 
 <div class="paper">
-<div class="title">Improving rangeland and livestock management in Namibia</div>
+<div class="title"><a href="https://www.mcc.gov/resources/doc/evalbrief-080420-nam-livestock/" target="_blank">Improving rangeland and livestock management in Namibia</a></div>
 <div class="authors">D. Layne Coppock, Lucas Crowley, Susan L. Durham, Dylan W. Groves, Julian C. Jamison, Dean Karlan, Brien E. Norton, R. Douglas Ramsey</div>
-<div class="paper-links"><a href="https://www.mcc.gov/resources/doc/evalbrief-080420-nam-livestock/" target="_blank">paper</a> <a href="https://poverty-action.org/study/impact-community-natural-resource-management-farmers%E2%80%99-livelihoods-and-land-quality-namibia" target="_blank">ipa</a></div>
+<div class="paper-links"><a href="https://poverty-action.org/study/impact-community-natural-resource-management-farmers%E2%80%99-livelihoods-and-land-quality-namibia" target="_blank">ipa</a></div>
 </div>
 
 <div class="paper">
-<div class="title">Information and motivation: why governments respond to watchdog journalism</div>
+<div class="title"><a href="https://gld.gu.se/en/publications/gld-working-papers/wp73/" target="_blank">Information and motivation: why governments respond to watchdog journalism</a></div>
 <div class="authors">Dylan W. Groves</div>
 <div class="venue">Governance and Local Development Institute Working Paper Series, No. 73 (2024)</div>
-<div class="paper-links"><a href="https://gld.gu.se/en/publications/gld-working-papers/wp73/" target="_blank">paper</a> <a href="https://www.povertyactionlab.org/initiative-project/spotlight-field-experiment-media-coverage-and-local-governance" target="_blank">j-pal</a></div>
+<div class="paper-links"><a href="https://www.povertyactionlab.org/initiative-project/spotlight-field-experiment-media-coverage-and-local-governance" target="_blank">j-pal</a></div>
 </div>
