@@ -14,15 +14,6 @@ title: "Research"
 </div>
 
 <div class="paper">
-<div class="title">The long-term effects of a radio drama on HIV attitudes and policy priorities</div>
-<div class="authors">Dylan W. Groves, Alphincina Kigaigai, Beatrice Montano, Savannah Nivin, Bardia Rahmani, Donald P. Green</div>
-<div class="venue">Revise and Resubmit, Social Science and Medicine</div>
-<details><summary>abstract</summary>
-<p>A growing body of evidence demonstrates that entertainment-education can improve public health knowledge, attitudes, and behaviors over the short term. However, relatively few studies assess whether these effects persist over extended periods or diffuse to viewers' family and friends. The present study employs a cluster-randomized field experiment in rural Tanzania to assess long-term and spillover effects of a Swahili radio drama addressing HIV disclosure and treatment. We randomly assigned 30 villages to treatment or control conditions, pairing villages within wards and randomizing one village per pair to the HIV drama Wahapahapa and the other to a placebo drama. Within each village, 40 respondents completed baseline interviews and received an invitation to attend the assigned screening. We surveyed respondents at two weeks and 18 months post-screening, also surveying their partners, friends, and children at endline. Eighteen months after screening, we observe persistent effects on primary respondents' HIV knowledge, disclosure willingness, and policy prioritization. Disclosure attitudes transmitted to partners and children but not friends, suggesting spillover occurs through household relationships rather than broader networks.</p>
-</details>
-</div>
-
-<div class="paper">
 <div class="title">Journalism and blame attribution in hegemonic party regimes: evidence from Tanzania</div>
 <div class="authors">Benjamin Risley, Dylan W. Groves, Zakayo Zakaria</div>
 <div class="venue">Under Review</div>
@@ -74,6 +65,22 @@ title: "Research"
 </div>
 
 ## Published and Forthcoming
+
+<div class="paper">
+<div class="title">The long-term and spillover effects of a radio drama on HIV knowledge, expressed stigma, willingness to disclose, and political priorities: evidence from a cluster-randomized trial in Tanzania</div>
+<div class="authors">Dylan W. Groves, Alphoncina Kagaigai, Constantine Manda, Beatrice Montano, Savannah Nivin, Bardia Rahmani, Donald P. Green</div>
+<div class="venue">Social Science &amp; Medicine (forthcoming)</div>
+<div class="paper-links"><a href="https://osf.io/4tdz2" target="_blank">pre-analysis plan</a></div>
+<details><summary>abstract</summary>
+<p><i>Background</i>. Entertainment-education can influence public health knowledge and attitudes, but evidence on persistence and spillovers is limited.
+
+<i>Methods</i>. We conducted a placebo-controlled, cluster-randomized trial in 30 villages in rural Tanzania. Within 15 matched ward pairs, we randomly assigned villages to a community screening of a radio drama modeling HIV disclosure and help seeking or to a screening of an unrelated drama. Of 1,205 respondents enrolled at baseline, 87% attended the screening and 97% completed the endline survey. Participants and enumerators were blinded to assignment. The primary outcomes at 18 months were preregistered indices of HIV knowledge, expressed stigma, willingness to disclose, and HIV policy prioritization. We also surveyed participants' partners, close friends, and teenage children to assess spillovers (secondary outcomes). The study was preregistered on the Open Science Framework.
+
+<i>Results</i>. At 18 months, the HIV drama increased participants' knowledge (<i>d</i> = 0.14), willingness to disclose (<i>d</i> = 0.17), and prioritization of HIV policy (<i>d</i> = 0.17), but not expressed stigma (<i>d</i> = 0.07). These effects were about half as large as those measured two weeks after exposure. Willingness to disclose also increased among the partners (<i>d</i> = 0.16) and teenage children (<i>d</i> = 0.23) of screening attendees. The estimated effect on partners' policy prioritization was similar (<i>d</i> = 0.16) but less precise. We found no spillover in knowledge or stigma and no effects among friends.
+
+<i>Conclusions</i>. A single group screening produced changes in HIV-related knowledge and attitudes that remained evident 18 months later. Spillover was selective and limited to household relationships.</p>
+</details>
+</div>
 
 <div class="paper">
 <div class="title">Media capture in Africa: a case study in Tanzania</div>
