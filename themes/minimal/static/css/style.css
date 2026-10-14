@@ -342,3 +342,15 @@ footer a:hover { color: var(--text); }
   header h1 { font-size: 22px; }
   nav a { margin-right: 16px; font-size: 13px; }
 }
+
+/* Linked paper titles */
+.paper .title a {
+  color: #1a3a6b;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.paper .title a:hover {
+  color: #0d2447;
+  text-decoration: underline;
+}
