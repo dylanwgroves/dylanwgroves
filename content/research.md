@@ -69,8 +69,8 @@ title: "Research"
 <div class="paper">
 <div class="title">The long-term and spillover effects of a radio drama on HIV knowledge, expressed stigma, willingness to disclose, and political priorities: evidence from a cluster-randomized trial in Tanzania</div>
 <div class="authors">Dylan W. Groves, Alphoncina Kagaigai, Constantine Manda, Beatrice Montano, Savannah Nivin, Bardia Rahmani, Donald P. Green</div>
-<div class="venue">Social Science &amp; Medicine (forthcoming)</div>
-<div class="paper-links"><a href="https://osf.io/4tdz2" target="_blank">pre-analysis plan</a></div>
+<div class="venue">Social Science &amp; Medicine (2026)</div>
+<div class="paper-links"><a href="https://doi.org/10.1016/j.socscimed.2026.119940" target="_blank">paper</a> <a href="https://osf.io/4tdz2" target="_blank">pre-analysis plan</a> <a href="https://osf.io/rkd48" target="_blank">replication</a></div>
 <details><summary>abstract</summary>
 <p><i>Background</i>. Entertainment-education can influence public health knowledge and attitudes, but evidence on persistence and spillovers is limited.
 
