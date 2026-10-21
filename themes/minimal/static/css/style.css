@@ -345,12 +345,12 @@ footer a:hover { color: var(--text); }
 
 /* Linked paper titles */
 .paper .title a {
-  color: #1a3a6b;
+  color: #1f4f9e;
   text-decoration: none;
   transition: color 0.2s;
 }
 
 .paper .title a:hover {
-  color: #0d2447;
+  color: #153a78;
   text-decoration: underline;
 }
