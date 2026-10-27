@@ -23,7 +23,7 @@ title: "Research"
 </div>
 
 <div class="paper">
-<div class="title"><a href="https://papers.ssrn.com/sol3/papers.cfm" target="_blank">Uninformed or unmotivated? A field experiment on local leader responsiveness in Tanzania</a></div>
+<div class="title"><a href="/papers/groves_uninformed_unmotivated.pdf" target="_blank">Uninformed or unmotivated? A field experiment on local leader responsiveness in Tanzania</a></div>
 <div class="authors">Dylan W. Groves</div>
 <div class="venue">Under Review</div>
 <div class="paper-links"><a href="https://www.dropbox.com/s/d5x6kjomivn8plt" target="_blank">pre-analysis plan</a></div>
