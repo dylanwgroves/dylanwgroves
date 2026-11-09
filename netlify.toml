@@ -4,3 +4,9 @@
 
 [build.environment]
   HUGO_VERSION = "0.161.1"
+
+# Ozongombe Zetu, the cattle records site, runs on PythonAnywhere. 302 so the address can change later.
+[[redirects]]
+  from = "/ozongombe"
+  to = "https://dylanwgroves.eu.pythonanywhere.com/"
+  status = 302
