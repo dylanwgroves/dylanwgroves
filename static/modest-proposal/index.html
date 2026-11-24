@@ -1,0 +1,663 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<meta name="color-scheme" content="light">
+<title>Modest Proposal on Ely Hill, Petaluma</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&family=Special+Elite&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #f4ecd8;
+    --card: #fbf6e9;
+    --slip: #fffdf6;
+    --ink: #2a2018;
+    --faded: #6b5c4a;
+    --redwood: #8a3b2a;
+    --redwood-dark: #6f2d1f;
+    --rule: #b9a98a;
+    --fell: 'IM Fell English', 'Hoefler Text', Baskerville, Georgia, 'Times New Roman', serif;
+    --fell-sc: 'IM Fell English SC', 'Hoefler Text', Baskerville, Georgia, 'Times New Roman', serif;
+    --typed: 'Special Elite', 'Courier New', Courier, monospace;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: var(--fell);
+    color: var(--ink);
+    background:
+      radial-gradient(ellipse at 20% 0%, rgba(255, 252, 240, 0.7), transparent 55%),
+      radial-gradient(ellipse at 90% 100%, rgba(170, 140, 90, 0.16), transparent 50%),
+      var(--paper);
+    min-height: 100vh;
+    font-size: 19px;
+    line-height: 1.5;
+  }
+
+  main {
+    max-width: 620px;
+    margin: 0 auto;
+    padding: 44px 22px 72px;
+  }
+
+  img { max-width: 100%; }
+
+  /* Title page */
+  .title-page { text-align: center; }
+
+  .imprint {
+    font-family: var(--fell-sc);
+    font-size: 15px;
+    letter-spacing: 0.14em;
+    color: var(--faded);
+  }
+
+  h1 {
+    font-family: var(--fell-sc);
+    font-weight: 400;
+    font-size: clamp(42px, 12.5vw, 74px);
+    line-height: 0.98;
+    letter-spacing: 0.02em;
+    margin: 4px 0 10px;
+  }
+
+  .article-a {
+    display: block;
+    font-family: var(--fell);
+    font-style: italic;
+    font-size: 30px;
+    line-height: 1;
+    letter-spacing: 0;
+    margin: 20px 0 6px;
+  }
+
+  .place {
+    font-style: italic;
+    font-size: clamp(22px, 5.6vw, 28px);
+    color: var(--redwood);
+  }
+
+  .rule {
+    border: 0;
+    height: 5px;
+    border-top: 1px solid var(--ink);
+    border-bottom: 1px solid var(--ink);
+    width: 120px;
+    margin: 20px auto;
+  }
+
+  .purpose {
+    font-size: 18px;
+    line-height: 1.45;
+    max-width: 30em;
+    margin: 0 auto;
+    text-wrap: balance;
+  }
+
+  .to-sign {
+    margin-top: 16px;
+    text-align: center;
+    font-style: italic;
+    font-size: 16px;
+  }
+  .to-sign a { color: var(--faded); text-underline-offset: 3px; }
+  .to-sign a:hover { color: var(--redwood); }
+
+  /* Plates: the drawings from the 1978 letter, and the photographs */
+  .plate { margin: 26px auto 0; text-align: center; }
+  .plate img { display: block; width: 100%; height: auto; }
+  .plate.drawing img { mix-blend-mode: multiply; }
+  .plate.first { max-width: 440px; }
+  .plate figcaption {
+    font-style: italic;
+    font-size: 15px;
+    line-height: 1.35;
+    color: var(--faded);
+    margin-top: 8px;
+    text-wrap: balance;
+  }
+  .plate.photo { margin-top: 30px; }
+  .plate.photo img {
+    border: 1px solid var(--ink);
+    padding: 5px;
+    background: var(--card);
+  }
+
+  /* The text */
+  .text { margin-top: 44px; }
+  .text h2, .signing h2, .hill h2 {
+    font-family: var(--fell-sc);
+    font-weight: 400;
+    font-size: 17px;
+    letter-spacing: 0.16em;
+    text-align: center;
+    margin: 40px 0 10px;
+  }
+  .lede::first-letter {
+    font-size: 3.1em;
+    float: left;
+    line-height: 0.82;
+    padding: 5px 7px 0 0;
+    color: var(--redwood);
+  }
+  .text p + p { margin-top: 12px; }
+
+  .fn-mark { color: var(--redwood); text-decoration: none; padding: 0 2px; }
+  .text p.footnote {
+    clear: both;
+    margin-top: 20px;
+    padding-top: 10px;
+    font-size: 15px;
+    line-height: 1.4;
+    color: var(--faded);
+    background: linear-gradient(var(--ink), var(--ink)) left top / 90px 1px no-repeat;
+    scroll-margin-top: 20px;
+  }
+  .footnote a { color: var(--redwood); text-decoration: none; }
+  .text p.footnote + p.footnote { margin-top: 6px; padding-top: 0; background: none; }
+
+  .gifts {
+    float: right;
+    width: 44%;
+    max-width: 230px;
+    height: auto;
+    margin: 4px 0 6px 14px;
+    mix-blend-mode: multiply;
+    shape-outside: ellipse(50% 50%);
+  }
+
+  .text ol { list-style: none; counter-reset: art; }
+  .text li {
+    counter-increment: art;
+    display: grid;
+    grid-template-columns: 2.4em 1fr;
+    gap: 6px;
+    padding: 14px 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .text li:last-child { border-bottom: 0; }
+  .text li::before {
+    content: counter(art, upper-roman) ".";
+    font-family: var(--fell-sc);
+    color: var(--redwood);
+    text-align: right;
+    padding-right: 6px;
+  }
+  .text strong {
+    font-family: var(--fell-sc);
+    font-weight: 400;
+    letter-spacing: 0.05em;
+  }
+
+  /* The signing, at the foot of the document */
+  .signing { margin-top: 20px; scroll-margin-top: 20px; }
+  form { text-align: center; }
+
+  label {
+    display: block;
+    font-style: italic;
+    font-size: 20px;
+  }
+
+  input[type="text"] {
+    font-family: var(--fell);
+    font-style: italic;
+    font-size: 34px;
+    line-height: 1.2;
+    color: var(--ink);
+    text-align: center;
+    width: 100%;
+    max-width: 360px;
+    padding: 8px 4px 2px;
+    margin-top: 2px;
+    background: transparent;
+    border: 0;
+    border-bottom: 2px solid var(--ink);
+    border-radius: 0;
+    outline: none;
+  }
+  input[type="text"]::placeholder { color: #b5a58b; opacity: 1; }
+  input[type="text"]:focus-visible { border-bottom-color: var(--redwood); box-shadow: 0 2px 0 var(--redwood); }
+
+  .roll {
+    margin-top: 12px;
+    font-size: 16px;
+    color: var(--faded);
+  }
+  .roll button {
+    font: inherit;
+    font-style: italic;
+    color: var(--ink);
+    background: none;
+    border: 0;
+    padding: 4px 0;
+    margin-left: 3px;
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-color: var(--rule);
+    text-underline-offset: 3px;
+  }
+  .roll button:hover { color: var(--redwood); text-decoration-color: var(--redwood); }
+
+  .seal-button {
+    font-family: var(--fell-sc);
+    font-size: 21px;
+    letter-spacing: 0.06em;
+    color: var(--card);
+    background: var(--redwood);
+    border: 1px solid var(--redwood-dark);
+    padding: 12px 26px 13px;
+    margin-top: 22px;
+    cursor: pointer;
+    box-shadow: 0 0 0 3px var(--paper), 0 0 0 4px var(--redwood-dark);
+    transition: background 0.15s, transform 0.1s;
+  }
+  .seal-button:hover { background: var(--redwood-dark); }
+  .seal-button:active { transform: translateY(1px); }
+  .seal-button:disabled { opacity: 0.6; cursor: default; }
+
+  button:focus-visible { outline: 2px solid var(--ink); outline-offset: 3px; }
+
+  .notice {
+    margin: 22px auto 0;
+    max-width: 26em;
+    font-style: italic;
+    color: var(--redwood-dark);
+  }
+  .notice button {
+    display: inline-block;
+    margin-top: 8px;
+    font: inherit;
+    font-size: 16px;
+    color: var(--ink);
+    background: none;
+    border: 0;
+    cursor: pointer;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  /* The draw: two slips of paper */
+  .proposal {
+    margin: 34px auto 0;
+    max-width: 470px;
+    text-align: center;
+  }
+  .proposal .eyes {
+    font-family: var(--fell-sc);
+    font-size: 15px;
+    letter-spacing: 0.12em;
+    color: var(--faded);
+  }
+  .proposal h3 {
+    font-weight: 400;
+    font-style: italic;
+    font-size: 28px;
+    line-height: 1.15;
+    margin: 6px 0 20px;
+  }
+  .proposal h3:focus { outline: none; }
+
+  .slip {
+    background: var(--slip);
+    border: 1px solid #d9cfb8;
+    padding: 15px 16px 11px;
+    margin-top: 16px;
+    font-family: var(--typed);
+    color: #26221d;
+    box-shadow: 0 12px 20px -14px rgba(60, 40, 15, 0.7);
+    animation: drop 0.5s ease-out both;
+  }
+  .slip.gift { margin-right: 9%; transform: rotate(-1.3deg); }
+  .slip.book { margin-left: 9%; transform: rotate(1.1deg); animation-delay: 0.35s; }
+  @keyframes drop {
+    from { opacity: 0; transform: translateY(-18px); }
+  }
+
+  .slip .hat {
+    display: block;
+    font-size: 13px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--faded);
+  }
+  .slip .slip-name {
+    display: block;
+    font-size: clamp(34px, 10vw, 44px);
+    line-height: 1.2;
+    margin-top: 4px;
+  }
+  .slip .slip-note { display: block; font-size: 14px; color: var(--faded); }
+
+  .reminder {
+    margin: 30px auto 0;
+    max-width: 26em;
+    text-align: center;
+    font-style: italic;
+    font-size: 17px;
+    color: var(--faded);
+    text-wrap: balance;
+  }
+
+  .reseal {
+    font: inherit;
+    font-size: 16px;
+    font-style: italic;
+    color: var(--faded);
+    background: none;
+    border: 0;
+    margin-top: 24px;
+    cursor: pointer;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  .reseal:hover { color: var(--ink); }
+
+  /* The family photographs */
+  .hill { margin-top: 20px; }
+  .text a, .hill a, .plate figcaption a {
+    color: inherit;
+    text-decoration-color: var(--redwood);
+    text-underline-offset: 3px;
+  }
+  .text a:hover, .hill a:hover { color: var(--redwood); }
+
+  .plate.photo.foretold { clear: both; max-width: 420px; margin: 22px auto 20px; }
+
+  .album { columns: 2; column-gap: 10px; margin-top: 18px; }
+  .album figure { break-inside: avoid; margin: 0 0 10px; }
+  .album img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid var(--ink);
+    padding: 4px;
+    background: var(--card);
+  }
+
+  .ornament {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 26px;
+    line-height: 1;
+    color: var(--redwood);
+    margin-top: 44px;
+  }
+
+  [hidden] { display: none !important; }
+
+  @media (max-width: 420px) {
+    body { font-size: 18px; }
+    main { padding: 30px 16px 56px; }
+    input[type="text"] { font-size: 30px; }
+    .plate.first { max-width: 320px; }
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    html { scroll-behavior: smooth; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .slip { animation: none; }
+  }
+</style>
+</head>
+<body>
+<main>
+
+  <header class="title-page">
+    <p class="imprint">First proposed 1978 &middot; Renewed Christmas MMXXVI</p>
+    <h1><span class="article-a">A</span> Modest Proposal</h1>
+    <p class="place">on Ely Hill, Petaluma</p>
+    <hr class="rule">
+    <p class="purpose">For preventing the family of Ely Hill from being a burden to one another at Christmas, and for making them beneficial to the publick.</p>
+  </header>
+
+  <figure class="plate drawing first">
+    <img src="img/christmas-1978.png" width="1496" height="1256" alt="A pen drawing from 1978: three people collapsed asleep among heaps of opened Christmas presents, under a sagging Merry Christmas banner.">
+    <figcaption>Christmas before the Proposal. Drawn for the family letter of November 26, 1978.</figcaption>
+  </figure>
+
+  <p class="to-sign"><a href="#signing">Sign below</a></p>
+
+  <section class="text">
+    <p class="lede">It is a melancholy object to those who walk through the shops in December, to see the shelves crowded with things that nobody on Ely Hill requires. I shall now therefore humbly propose my own thoughts, which I hope will not be liable to the least objection.</p>
+
+    <h2>The Precedent</h2>
+    <img class="gifts" src="img/gifts-1978.png" width="712" height="548" alt="A pen drawing from 1978: a mountain of wrapped presents, taller than the Christmas tree beside it, with tiny figures at its foot.">
+    <p>This is not the first Modest Proposal. On <a href="https://www.elyhill.family/modest-proposal">November 26, 1978</a>, after a Thanksgiving made unusually quiet by circumstances beyond their control, the K. Kortums sat down and did the arithmetic. The family was exchanging 114 gifts every Christmas. At that rate, they warned, the Kortums would soon have to rent a hall, and nobody would be in bed before four in the morning.</p>
+    <p>Their remedy was one gift given and one gift received, by names drawn from two hats,<a class="fn-mark" id="fn-hats-back" href="#fn-hats" aria-label="Footnote on the two hats">*</a> with nobody drawing from their own household. The ballot was limited to yes or no.<a class="fn-mark" id="fn-vote-back" href="#fn-vote" aria-label="Footnote on the vote">&dagger;</a> The aim, in their words, was Christmas as &ldquo;a celebration firstly, a time for gift-giving secondly.&rdquo;</p>
+    <p class="footnote" id="fn-hats"><a href="#fn-hats-back" aria-label="Back to the text">*</a> The letter: &ldquo;a drawing will be made to match a giver with a receiver.&rdquo; So, one hat of givers and one of receivers.</p>
+    <p class="footnote" id="fn-vote"><a href="#fn-vote-back" aria-label="Back to the text">&dagger;</a> Somewhat suspiciously, the vote count was not recorded, and the ballots cannot be found.</p>
+
+    <figure class="plate drawing">
+      <img src="img/fugazi-hall-1978.png" width="1448" height="704" alt="A pen drawing from 1978: a huge windowless building labelled Fugazi Hall with a full parking lot. Speech bubbles rise from inside: Who's going to be chairperson? Where's the bathroom? In the lobby, next to the vending machines.">
+      <figcaption>The alternative: the Kortums in a rented Fugazi Hall. From the same letter.</figcaption>
+    </figure>
+
+    <p style="margin-top: 22px">Forty-eight years on, the Proposal is amended as follows.</p>
+
+    <h2>This Year</h2>
+    <ol>
+      <li><span><strong>The Gift.</strong> Each of us gives one gift to one person, at a cost of no more than eighty dollars. <a href="https://www.pressdemocrat.com/article/news/sonoma-county-environmentalist-bill-kortum-dies-at-87/">Bill</a> built his own tractor while still at Petaluma High. Nobody expects a tractor, but made, grown, mended, or found beats bought, and a tin of <a href="https://www.elyhill.family/recipes-blog/2020/12/9/lucys-springerle">Lucy&rsquo;s springerle</a> beats most things.</span></li>
+      <li><span><strong>The Book.</strong> Each of us gives one book to a different person. <a href="https://www.pressdemocrat.com/obituaries/lucy-kortum-petaluma-ca/">Lucy</a> wrote the history of California&rsquo;s Carnegie libraries and put ten of them on the National Register. <a href="https://www.petalumanews.com/obituaries/geraldine-groves-petaluma-ca/">Gerry</a> raised money for the Petaluma library and was a regular at her monthly book club. A book is the least we can do. A used copy counts double.</span></li>
+    </ol>
+  </section>
+
+  <section class="signing" id="signing">
+    <h2>The Signing</h2>
+    <form id="sign" autocomplete="off" novalidate>
+      <label for="name">Being of the family, I sign my name:</label>
+      <input type="text" id="name" name="name" placeholder="your first name" autocapitalize="words" autocorrect="off" spellcheck="false" enterkeyhint="go" aria-describedby="notice">
+      <p class="roll">
+        On the rolls:
+        <span id="roll"></span>
+      </p>
+      <button type="submit" class="seal-button" id="find">Find my Modest Proposal</button>
+      <div class="notice" id="notice" role="status" aria-live="polite"></div>
+    </form>
+
+    <div class="proposal" id="proposal" hidden aria-live="polite">
+      <p class="eyes">For the eyes of <span id="who-eyes"></span> only</p>
+      <h3 id="proposal-heading" tabindex="-1">You have drawn</h3>
+      <div class="slip gift">
+        <span class="hat">One gift, $80 at most, for</span>
+        <span class="slip-name" id="gift-name"></span>
+      </div>
+      <div class="slip book">
+        <span class="hat">One book, for</span>
+        <span class="slip-name" id="book-name"></span>
+      </div>
+      <button type="button" class="reseal" id="reseal">Fold them up and say nothing</button>
+    </div>
+    <p class="reminder">A reminder: the draw is secret until Christmas. Tell no one, not even your spouse, whom you cannot have drawn.</p>
+  </section>
+
+  <section class="hill">
+    <h2>Christmases Past</h2>
+    <div class="album">
+      <figure><img src="img/xmas-asleep.jpg" width="1200" height="900" loading="lazy" alt="Someone fast asleep on the carpet, half buried in torn wrapping paper and empty boxes."></figure>
+      <figure><img src="img/xmas-1988.jpg" width="1200" height="726" loading="lazy" alt="A scrapbook photo labelled 1988, Christmas, Ely Hill: a grey-haired man and a small boy building a tall Tinkertoy tower on the dining table."></figure>
+      <figure><img src="img/xmas-seesaw.jpg" width="1200" height="852" loading="lazy" alt="A white-haired man grinning on a small indoor seesaw across from a woman in a paisley shirt, with wrapping paper and boxes around them."></figure>
+      <figure><img src="img/xmas-floor.jpg" width="1200" height="862" loading="lazy" alt="Family sitting on the living-room floor and in chairs beside a red rocking horse and a very large wrapped present."></figure>
+      <figure><img src="img/xmas-tree.jpg" width="1200" height="859" loading="lazy" alt="Five people sitting beside a decorated Christmas tree, all looking the same way, one holding an open book."></figure>
+      <figure><img src="img/xmas-taste.jpg" width="1200" height="803" loading="lazy" alt="Two people sharing a taste from one bowl beside the Christmas tree, a print of a persimmon on the wall behind them."></figure>
+      <figure><img src="img/xmas-limbo.jpg" width="1200" height="793" loading="lazy" alt="Someone bending backwards under a limbo ribbon in the living room while barefoot relatives look on."></figure>
+      <figure><img src="img/xmas-horse.jpg" width="1200" height="798" loading="lazy" alt="People opening presents in leather chairs behind a worn wooden rocking horse."></figure>
+      <figure><img src="img/xmas-chairs.jpg" width="1200" height="798" loading="lazy" alt="Relatives talking and lounging in recliners along the window wall, poinsettias on the table behind."></figure>
+      <figure><img src="img/xmas-hats.jpg" width="1200" height="679" loading="lazy" alt="A big family group on the living-room floor in party hats and beads, with a baby, a dog and the rocking horse."></figure>
+      <figure><img src="img/xmas-stockings.jpg" width="1200" height="800" loading="lazy" alt="A family group standing under a row of hanging Christmas stockings, several in bright printed shirts and dresses."></figure>
+    </div>
+  </section>
+
+  <p class="ornament" aria-hidden="true">&#10087;&#xFE0E;</p>
+
+</main>
+
+<script src="draw.js"></script>
+<script>
+(function () {
+  'use strict';
+
+  // PEOPLE and SALT must match scripts/modest-proposal-draw.ps1.
+  var PEOPLE = ['Julie', 'Barry', 'Holden', 'Valerie', 'Charlotte', 'Dylan'];
+  var ALIASES = { val: 'Valerie', dyl: 'Dylan', char: 'Charlotte', jules: 'Julie' };
+  var SALT = 'ely-hill-2026';
+  var LOCK = 'modest-proposal-2026';
+
+  var form = document.getElementById('sign');
+  var input = document.getElementById('name');
+  var notice = document.getElementById('notice');
+  var findButton = document.getElementById('find');
+  var proposal = document.getElementById('proposal');
+  var calm = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  // The roll of names: tap one to sign with it.
+  var roll = document.getElementById('roll');
+  PEOPLE.forEach(function (p, i) {
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.textContent = p;
+    b.addEventListener('click', function () {
+      input.value = p;
+      input.focus();
+    });
+    roll.appendChild(b);
+    roll.appendChild(document.createTextNode(i < PEOPLE.length - 1 ? ', ' : '.'));
+  });
+
+  function whoIs(text) {
+    var first = (text || '').toLowerCase().replace(/[^a-z\s]/g, ' ').trim().split(/\s+/)[0] || '';
+    if (ALIASES[first]) return ALIASES[first];
+    for (var i = 0; i < PEOPLE.length; i++) {
+      if (PEOPLE[i].toLowerCase() === first) return PEOPLE[i];
+    }
+    return null;
+  }
+
+  function sha(text) {
+    return crypto.subtle.digest('SHA-256', new TextEncoder().encode(text)).then(function (buf) {
+      return new Uint8Array(buf);
+    });
+  }
+
+  function hex(bytes) {
+    return Array.prototype.map.call(bytes, function (x) {
+      return ('0' + x.toString(16)).slice(-2);
+    }).join('');
+  }
+
+  // The draw is stored scrambled, one entry per person, so that reading the
+  // page source does not give the game away.
+  function lookUp(name) {
+    return Promise.all([sha(SALT + '|who|' + name), sha(SALT + '|pad|' + name)]).then(function (r) {
+      var sealed = (window.MP_DRAW || {})[hex(r[0].slice(0, 8))];
+      if (!sealed) return null;
+      var b = [0, 1, 2].map(function (i) {
+        return parseInt(sealed.substr(i * 2, 2), 16) ^ r[1][i];
+      });
+      if (b[2] !== ((b[0] * 31 + b[1] * 17 + 99) & 255)) return null;
+      if (!PEOPLE[b[0]] || !PEOPLE[b[1]]) return null;
+      return { book: PEOPLE[b[0]], gift: PEOPLE[b[1]] };
+    });
+  }
+
+  function getLock() {
+    try { return localStorage.getItem(LOCK); } catch (e) { return null; }
+  }
+  function setLock(name) {
+    try {
+      if (name) localStorage.setItem(LOCK, name);
+      else localStorage.removeItem(LOCK);
+    } catch (e) { /* private browsing: no lock, no harm */ }
+  }
+
+  function say(text, action) {
+    notice.textContent = text || '';
+    if (action) {
+      notice.appendChild(document.createElement('br'));
+      var b = document.createElement('button');
+      b.type = 'button';
+      b.textContent = action.label;
+      b.addEventListener('click', action.run);
+      notice.appendChild(b);
+    }
+  }
+
+  function show(name, draw) {
+    document.getElementById('who-eyes').textContent = name;
+    document.getElementById('book-name').textContent = draw.book;
+    document.getElementById('gift-name').textContent = draw.gift;
+    proposal.hidden = false;
+    document.getElementById('proposal-heading').focus({ preventScroll: true });
+    proposal.scrollIntoView({ behavior: calm ? 'auto' : 'smooth', block: 'center' });
+  }
+
+  function fold() {
+    proposal.hidden = true;
+    input.value = '';
+    say('');
+    findButton.disabled = false;
+  }
+
+  form.addEventListener('submit', function (event) {
+    event.preventDefault();
+    proposal.hidden = true;
+
+    var name = whoIs(input.value);
+    if (!input.value.trim()) {
+      say('The Proposal cannot be delivered unsigned.');
+      input.focus();
+      return;
+    }
+    if (!name) {
+      say('No such person is entered on the rolls of Ely Hill. Try your first name.');
+      input.focus();
+      return;
+    }
+
+    var holder = getLock();
+    if (holder && holder !== name) {
+      say('This device has already drawn for ' + holder + '. One draw apiece, and no peeking.', {
+        label: holder + ' is finished. Hand the device along.',
+        run: function () {
+          setLock(null);
+          say('Handed along. Sign again.');
+          input.focus();
+        }
+      });
+      return;
+    }
+
+    if (!window.crypto || !crypto.subtle) {
+      say('This browser cannot open the draw. Try the page over https, or on a newer phone.');
+      return;
+    }
+
+    say('');
+    findButton.disabled = true;
+    lookUp(name).then(function (draw) {
+      findButton.disabled = false;
+      if (!draw) {
+        say('The draw has not been made yet. Ask Dylan.');
+        return;
+      }
+      setLock(name);
+      show(name, draw);
+    }).catch(function () {
+      findButton.disabled = false;
+      say('Something went wrong. Try once more.');
+    });
+  });
+
+  document.getElementById('reseal').addEventListener('click', function () {
+    fold();
+    form.scrollIntoView({ behavior: calm ? 'auto' : 'smooth', block: 'center' });
+  });
+})();
+</script>
+</body>
+</html>
